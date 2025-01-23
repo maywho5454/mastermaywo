@@ -3926,39 +3926,39 @@ FILM
 #EXTINF:-1 group-logo="https://i.imgur.com/kSNGK5D.jpeg",FILM
 
 ==========23/1/2025  HBO (TAFX)===========
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="HBO",ID: HBO (TAFX)
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",ID: HBO (TAFX)
 http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="HBO",ID: HBO Family (TAFX)  
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",ID: HBO Family (TAFX)  
 http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197055
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="HBO",ID: HBO Hits (TAFX)
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="FILM",ID: HBO Hits (TAFX)
 http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="HBO",ID: HBO Signature (TAFX)
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",ID: HBO Signature (TAFX)
 http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/221948
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="HBO",ID: Cinemax (TAFX)
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="FILM",ID: Cinemax (TAFX)
 http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 ==========23/1/2025  HBO (THD)===========
 http://iptv12k.com:35461/654321/123456/2122
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="[ID] HBO id 8k" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="HBO",HBO (THD)
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="[ID] HBO id 8k" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",HBO (THD)
 http://iptv12k.com:35461/654321/123456/2121
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="[ID] HBO Family id 8k" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="HBO",HBO FAMILY (THD)
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="[ID] HBO Family id 8k" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO FAMILY (THD)
 http://iptv12k.com:35461/654321/123456/2120
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="[ID] HBO Signature id 8k" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="HBO",HBO SIGNATURE (THD)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="[ID] HBO Signature id 8k" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",HBO SIGNATURE (THD)
 http://iptv12k.com:35461/654321/123456/2118
 ==========23/1/2025  HBO (TVHD)===========
-#EXTINF:-1 tvg-name="[ID] HBO" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="HBO",[ID] HBO (TVHD)
+#EXTINF:-1 tvg-name="[ID] HBO" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",[ID] HBO (TVHD)
 http://iptv12k.com:35461/654321/123456/1748
-#EXTINF:-1 tvg-name="[ID] HBO Family" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="HBO",[ID] HBO Family (TVHD)
+#EXTINF:-1 tvg-name="[ID] HBO Family" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",[ID] HBO Family (TVHD)
 http://iptv12k.com:35461/654321/123456/1746
 ==========23/1/2025  HBO (TVHD2)===========
-#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="HBO",HBO HD (TVHD2)
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",HBO HD (TVHD2)
 http://iptv12k.com:35461/654321/123456/1892
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="HBO",HBO Family (TVHD2)
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO Family (TVHD2)
 http://iptv12k.com:35461/654321/123456/1890
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="HBO",HBO Hits (TVHD2)
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="FILM",HBO Hits (TVHD2)
 http://iptv12k.com:35461/654321/123456/1888
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my MOVIE" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="HBO",HBO Signature my (TVHD2)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my MOVIE" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",HBO Signature my (TVHD2)
 http://iptv12k.com:35461/654321/123456/1886
-#EXTINF:-1 tvg-name="Cinemax HD MOVIE" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="HBO",Cinemax HD (TVHD2)
+#EXTINF:-1 tvg-name="Cinemax HD MOVIE" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="FILM",Cinemax HD (TVHD2)
 http://iptv12k.com:35461/654321/123456/1882
 =======20/1/2025 FILM========
 
