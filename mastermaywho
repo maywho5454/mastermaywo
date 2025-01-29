@@ -5120,6 +5120,17 @@ SERIE A
 
 #EXTINF:-1 group-logo="https://i.imgur.com/81w3AhI.jpeg",SERIE A
 
+========29/1/2025
+#EXTINF:-1 group-title="SERIE A" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/81w3AhI.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
+
+#EXTINF:-1 group-title="SERIE A"" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/81w3AhI.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
+
 
 ========27/1/2025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg", group-title="SERIE A",Ziggo Sport 1 FHD
@@ -5204,6 +5215,23 @@ BUNDESLIGA
 
 
 
+============29/1/2025
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.imgur.com/3eoDkbu.jpeg" group-title="BUNDESLIGA", Eleven 1 Portugal
+https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.imgur.com/3eoDkbu.jpeg" group-title="BUNDESLIGA",Eleven 2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium456/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.imgur.com/3eoDkbu.jpeg" group-title="BUNDESLIGA", Eleven 3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium457/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.imgur.com/3eoDkbu.jpeg" group-title="BUNDESLIGA", Eleven 4 Portugal
+https://webhdrunns.mizhls.ru/lb/premium458/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="ttps://i.imgur.com/3eoDkbu.jpeg" group-title="BUNDESLIGA", Eleven 5 Portugal
+https://webhdrunns.mizhls.ru/lb/premium459/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
 
 #EXTINF:0 tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title=" BUNDESLIGA",MNC Sports (Sportstars)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5262,6 +5290,10 @@ END | BUNDESLIGA
 LALIGA
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/I7VEJ9V.jpeg",LA LIGA
+
+========29/1/2025
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="LA LIGA", Eleven 3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium457/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ========27/1/2025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", group-title="LA LIGA",Ziggo Sport 1 FHD
@@ -5380,6 +5412,20 @@ LIGA INGGRIS
 ===========
 
 #EXTINF:-1 group-logo="https://i.imgur.com/jWTfGcL.jpeg",LIGA INGGRIS 
+
+============29/1/2025
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS ", Eleven 1 Portugal
+https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",Eleven 2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium456/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+========29/1/2025
+#EXTINF:-1 group-title="LIGA INGGRIS " tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
+
 ======23/12/2024
 #EXTINF:-1 tvg-name="beIN SPORTS 3 Turkey" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",beIN SPORTS 3 Turkey
 https://webhdrunns.mizhls.ru/lb/premium64/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -5922,8 +5968,40 @@ http://iptv12k.com:35461/654321/123456/5943
 ===========
 OLAHRAGA POPULER
 ===========
-#EXTINF:-1 group-logo=" https://i.imgur.com/XDDHZzi.jpeg ",OLAHRAGA POPULER
+#EXTINF:-1 group-logo="https://i.imgur.com/XDDHZzi.jpeg",OLAHRAGA POPULER
 
+
+
+========29/1/2025
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
+
+
+#EXTINF:-1 group-title=OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 ===EDT
 
@@ -6258,6 +6336,7 @@ https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA LUAR",Sky Sport Select NZ
 https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+============29/1/2025
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo=" https://i.imgur.com/JDbR6Vc.jpeg " group-title="OLAHRAGA LUAR", Eleven 1 Portugal
 https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo=" https://i.imgur.com/JDbR6Vc.jpeg " group-title="OLAHRAGA LUAR",Eleven 2 Portugal
@@ -6583,6 +6662,47 @@ UEFA EROPA LEAGUE
 
 #EXTINF:-1 group-logo="https://i.imgur.com/6bI76pm.jpeg",UEFA EROPA LEAGUE
 
+========29/1/2025
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE",Eleven 2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium456/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE", Eleven 3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium457/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE", Eleven 4 Portugal
+https://webhdrunns.mizhls.ru/lb/premium458/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE", Eleven 5 Portugal
+https://webhdrunns.mizhls.ru/lb/premium459/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/6bI76pm",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/6bI76pm",TNT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt2/playlist.m3u8
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/6bI76pm",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/6bI76pm",TNT SPORTS 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+============29/1/2025
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.imgur.com/6bI76pm" group-title="UEFA EROPA LEAGUE", Eleven 1 Portugal
+https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
 ========27/1/2025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg", group-title="UEFA EROPA LEAGUE",Ziggo Sport 1 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6661,6 +6781,44 @@ UEFA CHAMPIONS LEAGUE
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/2jYyFR2.jpeg",UEFA CHAMPIONS LEAGUE
+
+========29/1/2025
+
+
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE",Eleven 2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium456/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE", Eleven 3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium457/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE", Eleven 4 Portugal
+https://webhdrunns.mizhls.ru/lb/premium458/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE", Eleven 5 Portugal
+https://webhdrunns.mizhls.ru/lb/premium459/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt2/playlist.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
+
+
 
 ========27/1/2025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", group-title="UEFA CHAMPIONS LEAGUE",Ziggo Sport 1 FHD
