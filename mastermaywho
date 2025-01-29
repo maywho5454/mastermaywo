@@ -5990,7 +5990,7 @@ https://bigembed.mizhls.ru/lb/eplayerdigitvbt2/playlist.m3u8
 https://bigembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
 
 
-#EXTINF:-1 group-title=OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
