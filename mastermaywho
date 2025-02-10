@@ -4959,13 +4959,6 @@ https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
 ======
 
 ====
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/QSl3Di8.jpeg",Lingua Channel
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Lingua.m3u8
-
-
-====
 
 
 
@@ -4998,41 +4991,12 @@ https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo=" https://i.imgur.com/nhU4IwA.jpeg",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=" https://i.imgur.com/vyy1V2o.jpeg" group-title="PENGETAHUAN",Viasat EXPLORE 🇬🇧 🇷🇴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56bbf898924f44908f8b4b10a751f854:cd88b9e1ac8b9ae4efb9cb41966c1699
-https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatexplorero/Manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo=" https://i.imgur.com/wZlj5OK.jpeg" group-title="PENGETAHUAN",Viasat HISTORY 🇬🇧 🇷🇴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77ae1f0a892748298af0403d43b5c389:2e1dd7778fb78ce1d508efe948ca66fd
-https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo=" https://i.imgur.com/Xdj2llF.jpeg" group-title="PENGETAHUAN",Viasat NATURE 🇬🇧 🇷🇴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f21f3b180664724be222c27aa3c7d12:22238c408bf58bc6b9ac5457e2f65043
-https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mpd
-
-
-##https://cdn3.invivo.bg/VIASAT_HISTORY_EMBEDED/index.m3u8
-
-
-
-##https://cdn3.invivo.bg/VIASAT_NATURE_EMBEDED/index.m3u8
-
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo=" https://i.imgur.com/n4Mtv8Y.jpeg" group-title="PENGETAHUAN", REAL WILD 🇬🇧
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-id=""  tvg-logo=" https://i.imgur.com/eNCpgMp.jpeg", INDONESIANA TV 🇮🇩
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://i.imgur.com/eNCpgMp.jpeg" group-title="PENGETAHUAN",Indonesiana TV 
+https://tvstreamcast.com/indonesiana.m3u8
+
 
 ==========
 END | PENGETAHUAN  |WORTH 100%
