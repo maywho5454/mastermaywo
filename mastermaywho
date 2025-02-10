@@ -3588,7 +3588,7 @@ HBO GROUP| UTAMA
 
 ============10/2/2025 HBO SUB INDO ============
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title=HBO",HBO (INDO)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO",HBO (INDO)
 https://mantul.biz.id:443/inetwork/gayanet12/1.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="HBO",HBO FAMILY (INDO)
 https://mantul.biz.id:443/inetwork/gayanet12/5.ts
