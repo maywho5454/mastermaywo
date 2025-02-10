@@ -4105,12 +4105,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
-===========
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+11/2/2025===========
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/eyUuO8T.jpeg" group-title="FILM",Indonesia Movie Channel
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-IMC.m3u8
-
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 ============
 ====EDT
