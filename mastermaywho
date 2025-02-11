@@ -4002,10 +4002,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 
 
 =========
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/wxzpgBl.jpeg" group-title="FILM",Chinese Drama
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ChineseDrama.m3u8
 
 =========
 
@@ -4231,7 +4227,7 @@ http://iptv12k.com:35461/654321/123456/3233
 http://iptv12k.com:35461/654321/123456/3232
 #EXTINF:-1 tvg-name="KR: mbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbc KR
 http://iptv12k.com:35461/654321/123456/3231
-#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: mbn KR
+#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbn KR
 http://iptv12k.com:35461/654321/123456/3230
 #EXTINF:-1 tvg-name="KR: jtbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: jtbc KR
 http://iptv12k.com:35461/654321/123456/3229
@@ -4251,7 +4247,7 @@ http://iptv12k.com:35461/654321/123456/3223
 http://iptv12k.com:35461/654321/123456/3222
 #EXTINF:-1 tvg-name="KR: 迪士尼JU KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 迪士尼JU KR
 http://iptv12k.com:35461/654321/123456/3221
-#EXTINF:-1 tvg-name="KR: MBC电视剧 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: MBC电视剧 KR
+#EXTINF:-1 tvg-name="KR: MBC电视剧 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC电视剧 KR
 http://iptv12k.com:35461/654321/123456/3220
 #EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC스포츠 KR
 http://iptv12k.com:35461/654321/123456/3219
@@ -4263,7 +4259,7 @@ http://iptv12k.com:35461/654321/123456/3217
 http://iptv12k.com:35461/654321/123456/3216
 #EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SPOTV KR
 http://iptv12k.com:35461/654321/123456/3215
-#EXTINF:-1 tvg-name="KR: KBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: KBS스포츠 KR
+#EXTINF:-1 tvg-name="KR: KBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: KBS스포츠 KR
 http://iptv12k.com:35461/654321/123456/3214
 #EXTINF:-1 tvg-name="KR: MNET KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MNET KR
 http://iptv12k.com:35461/654321/123456/3213
@@ -4277,7 +4273,7 @@ http://iptv12k.com:35461/654321/123456/3210
 http://iptv12k.com:35461/654321/123456/3209
 #EXTINF:-1 tvg-name="KR: 내셔널지오그래 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 내셔널지오그래 KR
 http://iptv12k.com:35461/654321/123456/3208
-#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: SBS스포츠 KR
+#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS스포츠 KR
 http://iptv12k.com:35461/654321/123456/3207
 #EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS골프 KR
 http://iptv12k.com:35461/654321/123456/3206
@@ -5572,10 +5568,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="SINGAPURA" tvg-id="Channel News Asia - [Channel 330].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",CNA
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="SINGAPURA",Oktolidays
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
 ==========
 CHINA
 ===========
@@ -5583,10 +5576,6 @@ CHINA
 
 ==edt
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="CHINA",Chinese Drama
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ChineseDrama.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
