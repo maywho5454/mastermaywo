@@ -3265,7 +3265,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR (Bola)" group-title=""NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg"",INDOSIAR (Bola)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR (Bola)" group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg"",INDOSIAR (Bola)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 
