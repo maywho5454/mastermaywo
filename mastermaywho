@@ -6173,6 +6173,31 @@ OLAHRAGA LUAR
 #EXTINF:-1 group-logo=" https://i.imgur.com/JDbR6Vc.jpeg", OLAHRAGA LUAR
 
 
+===========13/2/2025
+
+#EXTINF:-1 tvg-id="Go3Sport 1" tvg-url="" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA LUAR",Go3Sport 1
+#http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+
+#EXTINF:-1 tvg-id="Go3Sport 3" tvg-url="" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA LUAR",Go3Sport 3
+#http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="CBS Sports" tvg-url="" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA LUAR",CBS Sports Network
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CbsSprorts.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url="" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA LUAR",CBS Sports Golazo
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 ===EDT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
