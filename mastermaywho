@@ -6341,6 +6341,11 @@ UEFA EROPA LEAGUE
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/6bI76pm.jpeg",UEFA EROPA LEAGUE
+========15=2-2025
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE", Sky SPORT CALCIO (LCR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
 
 
 14/2/2025=======BEIN ARAB=====
@@ -6416,6 +6421,12 @@ UEFA CHAMPIONS LEAGUE
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/2jYyFR2.jpeg",UEFA CHAMPIONS LEAGUE
+
+===========15/2/2025
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE", Sky SPORT CALCIO (LCR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
 
 
 14/2/2025=======BEIN ARAB=====
