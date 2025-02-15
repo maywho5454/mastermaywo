@@ -5122,35 +5122,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
 
-#EXTINF:-1 tvg-name="beIN SPORTS Australia 1" tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title="BUNDESLIGA",beIN SPORTS Australia 1
-https://webhdrunns.mizhls.ru/lb/premium491/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title="BUNDESLIGA",Sky Sport Bundesliga 1 HD
-https://webhdrunns.mizhls.ru/lb/premium558/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="beIN SPORTS Australia 3" tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title="BUNDESLIGA",beIN SPORTS Australia 3
-https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 #EXTINF:-1 tvg-id="" tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title=" BUNDESLIGA ", SETANTA SPORT 1 馃嚤馃嚬
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-
-
-
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title="BUNDESLIGA",Sky Sport Bundesliga 1 HD
-https://webhdrunns.mizhls.ru/lb/premium558/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/3eoDkbu.jpeg" group-title="BUNDESLIGA", Sky SPORT CALCIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium870/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Nova Sports 3 Greece" tvg-logo=" https://i.imgur.com/3eoDkbu.jpeg " group-title="BUNDESLIGA",Nova Sports 3 Greece
-https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
 
 ==========
 END | BUNDESLIGA 
@@ -5212,24 +5188,6 @@ http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/I7VEJ9V.jpeg " group-title=" LA LIGA ",TSN 4
 http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
 
-
-#EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo=" https://i.imgur.com/I7VEJ9V.jpeg " group-title=" LA LIGA ",Nova Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium631/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo=" https://i.imgur.com/I7VEJ9V.jpeg " group-title=" LA LIGA ",Nova Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium632/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Nova Sports 4 Greece" tvg-logo=" https://i.imgur.com/I7VEJ9V.jpeg " group-title=" LA LIGA ",Nova Sports 4 Greece
-https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo=" https://i.imgur.com/I7VEJ9V.jpeg " group-title=" LA LIGA ", PREMIER SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium451/playlist.m3u8
 
 ==========
 END | LALIGA
@@ -5703,13 +5661,6 @@ GOLF
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/sInIG51.jpeg",GOLF
 
-#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="GOLF", Sky SPORT GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium461/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="GOLF",Sky Sports Golf UK
-https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ==========
 VOLLYBALL
@@ -6006,6 +5957,18 @@ END |OLAHRAGA POPULER
 FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",FORMULA 1
+
+#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1", Sky SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium60/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title=FORMULA 1", Sky SPORT F1 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
@@ -6409,10 +6372,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/6bI76pm.jpeg", beIN Sports 5
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE",SS Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium414/playlist.m3u8
+
 
 
 
@@ -6486,10 +6446,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", beIN Sports 5
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE",SS Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium414/playlist.m3u8
 
 
 ==========
