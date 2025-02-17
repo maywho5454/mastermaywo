@@ -5074,6 +5074,27 @@ SERIE A
 
 #EXTINF:-1 group-logo="https://i.imgur.com/81w3AhI.jpeg",SERIE A
 
+========17/2/2025
+#EXTINF:-1 group-title="SERIE A" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/81w3AhI.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
+#EXTINF:-1 group-title="SERIE A" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/81w3AhI.jpeg",TNT SPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
+#EXTINF:-1 group-title="SERIE A" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/81w3AhI.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8
+
+#EXTINF:-1 group-title="SERIE A" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/81w3AhI.jpeg",TNT SPORTS 3 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
+
 ===============15/2/2025
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="SERIE A", Sky SPORT CALCIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5214,7 +5235,16 @@ LIGA INGGRIS
 
 #EXTINF:-1 group-logo="https://i.imgur.com/jWTfGcL.jpeg",LIGA INGGRIS 
 
+========17/2/2025
+#EXTINF:-1 group-title="LIGA INGGRIS " tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
 
+#EXTINF:-1 group-title="LIGA INGGRIS " tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg",TNT SPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
 =========15/2/2025
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS", Sky SPORT CALCIO (LCR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5788,6 +5818,51 @@ http://iptv12k.com:35461/654321/123456/5943
 OLAHRAGA POPULER
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/XDDHZzi.jpeg",OLAHRAGA POPULER
+
+
+========17/2/2025
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt2/mono.m3u8
+
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 3 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
+
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt4/mono.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
+
+
+
+
+
+
 
 ========15/2/2025
 
@@ -6433,6 +6508,35 @@ UEFA EROPA LEAGUE
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/6bI76pm.jpeg",UEFA EROPA LEAGUE
+
+========17/2/2025
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",TNT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt2/mono.m3u8
+
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",TNT SPORTS 3 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
+
+========17/2/2025
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",TNT SPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
 ========15=2-2025
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE", Sky SPORT CALCIO (LCR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6513,6 +6617,45 @@ UEFA CHAMPIONS LEAGUE
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/2jYyFR2.jpeg",UEFA CHAMPIONS LEAGUE
+
+========17/2/2025
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt2/mono.m3u8
+
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 3 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGU" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt4/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGU" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
+
+
+========17/2/2025
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
 
 ===========15/2/2025
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE", Sky SPORT CALCIO (LCR)
