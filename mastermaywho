@@ -6087,7 +6087,7 @@ https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULERT" , DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER" , DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
@@ -6803,7 +6803,7 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ============================
 
 ======== DAZN ELEVEN
-#EXTINF:-1 group-title="UEFA EROPA LEAGUE tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 1 PT 
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 1 PT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.iosplayer.ru/ddy6/premium455/mono.m3u8
@@ -6825,7 +6825,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="UEFA EROPA LEAGUEA" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
+#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
@@ -7002,7 +7002,7 @@ https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUEE" , DAZN 3 
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE" , DAZN 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
@@ -7028,12 +7028,12 @@ https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGU" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt4/mono.m3u8
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGU" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4 (2)
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",TNT SPORTS 4 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
