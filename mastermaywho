@@ -3949,9 +3949,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0c
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 ============13/2/2025===================
-#EXTINF:-1 group-title="FILM" tvg-id="boohd.my" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg",Astro Boo 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/MyBoo-HD.m3u8
+
 
 
 
@@ -4027,6 +4025,13 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 ============
 #EXTINF:-1 group-title="FILM"  tvg-logo="https://i.imgur.com/Suy99cF.jpeg", AXN 1 ON
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 1 ON
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08 
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
+
 
 #EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 2 ON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6120,9 +6125,7 @@ MALAYSIA
 
 ============13/2/2025===================
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="boohd.my" tvg-logo=""https://i.imgur.com/YQ4r2e8.jpeg",Astro Boo 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/MyBoo-HD.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",035. Drama Sangat
