@@ -4023,9 +4023,6 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 ============
-#EXTINF:-1 group-title="FILM"  tvg-logo="https://i.imgur.com/Suy99cF.jpeg", AXN 1 ON
-https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 1 ON
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
