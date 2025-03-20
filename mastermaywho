@@ -4599,6 +4599,9 @@ EVENT MOTO GP
 #EXTINF:-1 group-logo="https://i.imgur.com/mWEMiPZ.jpeg",EVENT MOTO GP
 
 ===>>>21/3/2025<<<========
+#EXTINF:-1 tvg-id="MtrSpt1" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="EVENT MOTO GP" MtrSpt1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="EVENT MOTO GP",CANAL+ MotoGP France
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
@@ -4610,6 +4613,10 @@ https://nfsnew.koskoros.ru/nfs/premium575/mono.m3u8|referer=https://pkpakiplay.x
 
 #EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="EVENT MOTO GP",SS MotoGP
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
+
+#EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="EVENT MOTO GP",SS MotorSport
+http://aflaxtv.xyz:8080/F25093/29838750/303855
+
 ===>>>21/3/2025<<<========
 =======11/2/2025
 
@@ -6835,6 +6842,26 @@ FORMULA 1
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",FORMULA 1
 
 ===>>>21/3/2025<<<====
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Diema Sport Bulgaria
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium465/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium466/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Diema Sport 3 Bulgaria
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium467/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1" , DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",SS MotorSport
+http://aflaxtv.xyz:8080/F25093/29838750/303855
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Canal+ Formula 1
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://zekonew.koskoros.ru/zeko/premium273/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -6865,6 +6892,11 @@ OLAHRAGA LUAR
 ===========
 #EXTINF:-1 group-logo=" https://i.imgur.com/JDbR6Vc.jpeg", OLAHRAGA LUAR
 
+===>>>21/3/2025<<<====
+#EXTINF:-1 tvg-id="MtrSpt1" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA LUAR" MtrSpt1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
+===>>>21/3/2025<<<====
 
 ===========13/2/2025
 
