@@ -4190,16 +4190,29 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 group-title="FILM"  tvg-logo="https://i.imgur.com/EWvnknn.jpeg",MAXSTREAM ON
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MyCinema" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/3vKVcPU.jpeg" group-title="FILM",MyCinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTINF:-1 tvg-id="MyCinemaAsia" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/aB82T71.jpeg" group-title="FILM",MyCinema Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:-1 group-title="FILM" tvg-id="SONE" tvg-url="https://i.imgur.com/uESN7MW.jpeg",ONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 =====>>>20/3/2025<<<==========
-
-
-====11/2/2025
-#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA ASIA" tvg-logo="https://i.imgur.com/aB82T71.jpeg" group-title="FILM",MY CINEMA ASIA
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/830528
-#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="https://i.imgur.com/3vKVcPU.jpeg" group-title="FILM",MY CINEMA
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/830529
 
 #EXTINF:-1 tvg-id="92" tvg-logo="https://i.imgur.com/aB82T71.jpeg" group-title="FILM", My Cinema Europe HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -4213,8 +4226,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 
 
 ==========
-#EXTINF:-1 group-title="FILM"  tvg-logo="https://i.imgur.com/uESN7MW.jpeg",ONE [I]
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
