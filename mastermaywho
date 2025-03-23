@@ -4513,7 +4513,7 @@ KOREA
 
 ==
 
-#EXTINF:-1 group-title="KOREA"" tvg-id="SONE" tvg-url="https://i.imgur.com/vh4i0gM.jpeg",ONE
+#EXTINF:-1 group-title="KOREA" tvg-id="SONE" tvg-url="https://i.imgur.com/vh4i0gM.jpeg" tvg-logo="https://i.imgur.com/vh4i0gM.jpeg",ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
@@ -6038,6 +6038,11 @@ https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 singapura
 =========
 #EXTINF:-1 group-logo="https://i.imgur.com/xqYSItV.jpeg",SINGAPURA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title="SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",Okto Holidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 #EXTINF:-1 group-title="SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
