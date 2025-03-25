@@ -5126,10 +5126,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="SERIE A" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="SERIE A" , DAZN 1 
@@ -5275,10 +5272,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="BUNDESLIGA" , DAZN 1 
@@ -5423,10 +5417,6 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="LA LIGA" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LA LIGA" , DAZN 1 
@@ -5644,10 +5634,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DAZN 1 
@@ -6487,6 +6474,25 @@ OLAHRAGA POPULER
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/XDDHZzi.jpeg",OLAHRAGA POPULER
 
+=========>>>24/3/2025<<<===========
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 1 UK
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 2 UK
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 3 UK
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 4 UK
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+=========>>>24/3/2025<<<===========
+
 ======== DAZN ELEVEN
 #EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",ELEVEN 1 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6510,10 +6516,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo=https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER" , DAZN 1 
@@ -6542,48 +6545,10 @@ https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.iosplayer.ru/ddy6/premium388/mono.m3u8
 
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
-
 #EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://azonew.iosplayer.ru/azo/eplayerdigitvbt2/mono.m3u8
-
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 3 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
-
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://azonew.iosplayer.ru/azo/eplayerdigitvbt4/mono.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",TNT SPORTS 4 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
-
-
-
-
-
 
 
 ========15/2/2025
@@ -6608,13 +6573,6 @@ https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.iosplayer.ru/ddy6/premium574/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="hhttps://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", Sky SPORT MOTOGP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8
-
 
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", Sky SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6744,10 +6702,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ================ 20/1/2025 OLAHRAGA POPULER ===========
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SONY SPORTS TEN 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium885/playlist.m3u8
+
 
 ================ 20/1/2025 OLAHRAGA POPULER ===========
 
@@ -6859,22 +6814,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 =====
-#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport 1
-https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport 2
-https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport 3
-https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport 4
-https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport 5
-https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport Extra 1
-https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport Extra 2
-https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SSC Sport Extra 3
-https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ===========
 END |OLAHRAGA POPULER
 ===========
@@ -7289,10 +7228,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA EROPA LEAGUE" , DAZN 1 
@@ -7450,10 +7386,7 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
 ========17/2/2025
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE" , DAZN 1 
