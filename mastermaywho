@@ -7014,10 +7014,18 @@ MUSIC
 #EXTINF:-1 group-logo="https://i.imgur.com/CctbVah.jpeg", MUSIC
 
 ====
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Musik Indonesia (I)
-https://cdngb196.indihometv.com/joss/134/musikindo/chunklist_w196590844_b444100_sleng.m3u8?encp=&uid=&expp=
+
+#EXTINF: -1 tvg-id="Clubbing TV" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Clubbing TV
+http://www.geocities.ws/wahyuiptv/ClubbingTV.m3u8
+
+#EXTINF: -1 tvg-id="MetalTV" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Metal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Metal.m3u8
+
+
+#EXTINF: -1 tvg-id="FreshDance" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Fresh Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/FreshDance.m3u8
 
 ====
 
@@ -7037,16 +7045,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 
-#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC", IHeart 80s
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC", IHeart 90s
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",K Pop
-https://marine2.miplay.cl/kpop/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/CctbVah.jpeg",NOW 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
