@@ -5224,8 +5224,10 @@ SERIE A
 ============================
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ============================
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="SERIE A",Match Football 1 Russia
-https://ddy6new.koskoros.ru/ddy6/premium136/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="SERIE A",Cosmote Sport 1 HD
+https://dokko1new.koskoros.ru/dokko1/premium622/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="SERIE A",Cosmote Sport 2 HD
+https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="SERIE A",Prima Sport 2
 https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="SERIE A",Prima Sport 3
@@ -5743,7 +5745,81 @@ https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
 
+==========
+FOOTBALL EVENT
+===========
 
+#EXTINF:-1 group-logo="https://i.imgur.com/HEnSXxa.jpeg",FOOTBALL EVENT
+============================
+=====>>> COVER https://i.imgur.com/HEnSXxa.jpeg
+
+=======>> 1/4/2025 | START
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",DAZN 1 Bar DE
+https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",DAZN 2 Bar DE
+https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",DAZN 1 Spain
+https://windnew.koskoros.ru/wind/premium445/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",DAZN 2 Spain
+https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",DAZN 3 Spain
+https://zekonew.koskoros.ru/zeko/premium447/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",DAZN 4 Spain
+https://zekonew.koskoros.ru/zeko/premium448/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+====================================================================>> ARENA SPORT <<============================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 1 Premium
+https://windnew.koskoros.ru/wind/premium134/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 2 Premium
+https://ddy6new.koskoros.ru/ddy6/premium135/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 3 Premium
+https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 1 Serbia
+https://windnew.koskoros.ru/wind/premium429/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 2 Serbia
+https://zekonew.koskoros.ru/zeko/premium430/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 3 Serbia
+https://windnew.koskoros.ru/wind/premium431/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 4 Serbia
+https://windnew.koskoros.ru/wind/premium581/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 1 Croatia
+https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 2 Croatia
+https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 3 Croatia
+https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Arena Sport 4 Croatia
+https://windnew.koskoros.ru/wind/premium580/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+====================================================================>> DIEMA SPORT <<============================================================
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Diema Sport Bulgaria
+https://windnew.koskoros.ru/wind/premium465/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Diema Sport 2 Bulgaria
+https://windnew.koskoros.ru/wind/premium466/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Diema Sport 3 Bulgaria
+https://windnew.koskoros.ru/wind/premium467/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+====================================================================>> ELEVEN <<============================================================
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Eleven Sports 1 Poland
+https://windnew.koskoros.ru/wind/premium71/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Eleven Sports 2 Poland
+https://windnew.koskoros.ru/wind/premium72/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Eleven Sports 3 Poland
+https://ddy6new.koskoros.ru/ddy6/premium428/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Dazn Eleven Sports 1 Portugal
+https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Dazn Eleven Sports 2 Portugal
+https://windnew.koskoros.ru/wind/premium456/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Dazn Eleven Sports 3 Portugal
+https://windnew.koskoros.ru/wind/premium457/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Dazn Eleven Sports 4 Portugal
+https://windnew.koskoros.ru/wind/premium458/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/HEnSXxa.jpeg" group-title="FOOTBALL EVENT",Dazn Eleven Sports 5 Portugal
+https://wikinew.koskoros.ru/wiki/eplayereleven5/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ==========
 LIGA INGGRIS
