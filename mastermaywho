@@ -3199,12 +3199,105 @@ halaman tidak tersedia
 
 
 
+==========
+DAERAH
+===========
 
 
+#EXTINF:-1 group-logo="https://i.imgur.com/7ay0SsG.jpeg",DAERAH
 
+===>DAERAH START
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
+#EXTINF:-1 tvg-id="BaliTV.id" tvg-name="Bali TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Bali TV
+https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|Referer=https://www.visionplus.id
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Channel Jowo
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", DAAITV
+https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Referer=https://www.visionplus.id
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/0525ed2747e3161.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", ElshintaTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/500a192f4d09360.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+#EXTINF:-1 tvg-id="Hanacaraka TV - [Channel 90].id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Hanacaraka TV
+https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd|Referer=https://www.visionplus.id
+
+#EXTINF:-1 tvg-id="" tvg-name="JITV Jogja" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JITV Jogja
+http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", JakTV
+http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Jawa Pos TV
+http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="JPMTV.id" tvg-name="JawaposTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", JawaposTV (JPM)
+http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", JTV
+https://d1abp075u76pbq.cloudfront.net/live/eds/JTV/sa_dash_vmx/JTV.mpd|Referer=https://www.visionplus.id
+http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", RRI NET
+https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="tvkesehatan.id" tvg-name="TV Kesehatan" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="SaktiTV" tvg-name="Sakti TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
 
 
