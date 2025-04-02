@@ -6167,14 +6167,20 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-name="ASTRO Arena(b) SPORTS" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",ASTRO Arena(b) SPORTS
-http://iptv12k.com:35461/654321/123456/966
-#EXTINF:-1 tvg-id="AstroArena2.my" tvg-name="Arena 2(a) SPORTS Astro " tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",Arena 2(a) SPORTS Astro 
-http://iptv12k.com:35461/654321/123456/965
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena 1(b)" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",Astro Arena 1(b)
-http://iptv12k.com:35461/654321/123456/688
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena1(a)" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",Astro Arena1(a)
-http://iptv12k.com:35461/654321/123456/5943
+#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",AstArena 1
+http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
+
+#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",AstArena 2
+http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
+
+#EXTINF:-1 tvg-id="ARENA BOLA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",AstArena Bola 1
+http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
+
+#EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",AstArena Bola 2
+http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
+
+#EXTINF:-1 tvg-id="ASTSUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="BADMINTON",AstBadminton (TIDAK STABIL)
+http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
 
 
 
@@ -6184,7 +6190,17 @@ OLAHRAGA POPULER
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/XDDHZzi.jpeg",OLAHRAGA POPULER
 
+#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",AstArena 1
+http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
 
+#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",AstArena 2
+http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
+
+#EXTINF:-1 tvg-id="ARENA BOLA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",AstArena Bola 1
+http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
+
+#EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",AstArena Bola 2
+http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
 =========>>>1/4/2025<<<===========
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="beIN Sports",beIN Sports MENA English 1
