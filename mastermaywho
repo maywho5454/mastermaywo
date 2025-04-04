@@ -6434,229 +6434,6 @@ LEAGUE CUP
 ==========
 LEAGUE CUP END 
 ===========
-==========
-UEFA EROPA LEAGUE
-===========
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/6bI76pm.jpeg",UEFA EROPA LEAGUE
-
-
-============================
-KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
-============================
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA EROPA LEAGUE",TNT Sports 1 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA EROPA LEAGUE",TNT Sports 2 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA EROPA LEAGUE",TNT Sports 3 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA EROPA LEAGUE",TNT Sports 4 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
-
-14/2/2025=======BEIN ARAB=====
-
-#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",BEIN SPORTS 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium91/playlist.m3u8
-
-#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",BEIN SPORTS 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium92/playlist.m3u8
-
-#EXTINF:-1 group-title="UEFA EROPA LEAGUE" tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg",BEIN SPORTS 4 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium94/playlist.m3u8
-
-================13/2/2025
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE",Ziggo Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport.m3u8
-
-
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="UEFA EROPA LEAGUE",Ziggo Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport2.m3u8
-
-
-
-==========
-UEFA EROPA LEAGUE END 
-===========
-==========
-UEFA CHAMPIONS LEAGUE
-===========
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/2jYyFR2.jpeg",UEFA CHAMPIONS LEAGUE
-============================
-KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
-============================
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE",TNT Sports 1 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE",TNT Sports 2 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE",TNT Sports 3 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE",TNT Sports 4 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-======== DAZN ELEVEN
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 1 PT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium455/mono.m3u8
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 2 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium456/mono.m3u8
-
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 3 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
-
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 4 PT
- #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
-
-
-========17/2/2025
-
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE" , DAZN 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE" , DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE" , DAZN 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE" , DAZN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA CHAMPIONS LEAGUE", CYTAVISION 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
-
-===========15/2/2025
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE", Sky SPORT CALCIO (LCR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
-
-
-14/2/2025=======BEIN ARAB=====
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",BEIN SPORTS 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium91/playlist.m3u8
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",BEIN SPORTS 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium92/playlist.m3u8
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg",BEIN SPORTS 4 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium94/playlist.m3u8
-
-================13/2/2025
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE",Ziggo Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport.m3u8
-
-
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="UEFA CHAMPIONS LEAGUE",Ziggo Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport2.m3u8
-
-
-
-
-==========
-UEFA CHAMPIONS LEAGUE END 
-===========
-
-==========
-UEFA NATIONS LEAGUE
-===========
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/TPT3YVW.jpeg",UEFA NATIONS LEAGUE
-=========
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA NATIONS LEAGUE",TNT Sports 1 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA NATIONS LEAGUE",TNT Sports 2 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA NATIONS LEAGUE",TNT Sports 3 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="UEFA NATIONS LEAGUE",TNT Sports 4 UK
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
-
-
-==========
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="UEFA NATIONS LEAGUE", SOCCER CHANNEL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
-
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="UEFA NATIONS LEAGUE", MNC Sportstars 2 (WORTH)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg",MNC Sportstar 3 (WORTH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 ==============>>>SPESIAL BOLA<<<=====
 ============================
@@ -6947,6 +6724,159 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 END | SERIE A
 ===========
 ==========
+UEFA NATIONS LEAGUE
+===========
 
-sf
+
+#EXTINF:-1 group-logo="https://i.imgur.com/TPT3YVW.jpeg",BOLA | UEFA NATIONS LEAGUE
+=========
+#EXTINF:-1 group-title="BOLA | UEFA NATIONS LEAGUE" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg", TNT SPORTS 1 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/c0yv11f200zry3qd798so/tnt-sports-1.m3u8?rlkey=ify7vbhrszfpqn3f4bfkhocvp
+
+#EXTINF:-1 group-title="BOLA | UEFA NATIONS LEAGUE" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg", TNT SPORTS 2 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
+
+#EXTINF:-1 group-title="BOLA | UEFA NATIONS LEAGUE" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg", TNT SPORTS 3 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/otl23l96k852376chidfx/tnt-sports-3.m3u8?rlkey=pkadf5myis7kuoxgcov29j6g3
+
+#EXTINF:-1 group-title="BOLA | UEFA NATIONS LEAGUE" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg", TNT SPORTS 4 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ksoi8cqmd74e8592io7ui/tnt-sports-4.m3u8?rlkey=am7neijqskg224qq457olwhpj
+
+
+==========
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="UEFA NATIONS LEAGUE", SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="UEFA NATIONS LEAGUE", MNC Sportstars 2 (WORTH)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg",MNC Sportstar 3 (WORTH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+==========
+BOLA  | UEFA EROPA LEAGUE | STARTS
+===========
+#EXTINF:-1 group-logo="https://i.imgur.com/6bI76pm.jpeg",BOLA | UEFA EROPA LEAGUE
+==========
+
+#EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/6bI76pm.jpeg", TNT SPORTS 1 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/c0yv11f200zry3qd798so/tnt-sports-1.m3u8?rlkey=ify7vbhrszfpqn3f4bfkhocvp
+
+#EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/6bI76pm.jpeg", TNT SPORTS 2 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
+
+#EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/6bI76pm.jpeg", TNT SPORTS 3 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/otl23l96k852376chidfx/tnt-sports-3.m3u8?rlkey=pkadf5myis7kuoxgcov29j6g3
+
+#EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/6bI76pm.jpeg", TNT SPORTS 4 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ksoi8cqmd74e8592io7ui/tnt-sports-4.m3u8?rlkey=am7neijqskg224qq457olwhpj
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE", BEIN SPORTS 1 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE", BEIN SPORTS 2 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/f9o439dl0z52ppfg5x60j/beinar2.m3u8?rlkey=r8ajkq6jfsnng5m8s9yxs8n41&st=2lr6qsa8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE", BEIN SPORTS 3 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE", BEIN SPORTS 4 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ex1wzlrpmsvin1ppv9uoo/beinar4.m3u8?rlkey=v9elvwy9r700jfi5qvfc8n3f1&st=akx2s6bq
+
+==========
+UEFA CHAMPIONS LEAGUE
+===========
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/2jYyFR2.jpeg",BOLA | UEFA CHAMPIONS LEAGUE
+==
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 1 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 2 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/f9o439dl0z52ppfg5x60j/beinar2.m3u8?rlkey=r8ajkq6jfsnng5m8s9yxs8n41&st=2lr6qsa8
+
+ 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 3 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 4 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ex1wzlrpmsvin1ppv9uoo/beinar4.m3u8?rlkey=v9elvwy9r700jfi5qvfc8n3f1&st=akx2s6bq
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 5 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/o603gu8jap2jn8a13ywi5/beinar5.m3u8?rlkey=3nq3xxdiyjl6ufzhc4ni9r957&st=stbcic79
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 6 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/xa21c0age99dnpypd8og4/beinar6.m3u8?rlkey=ccemch038se1o9ri57cut2w1m&st=m8b0fahx
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 7 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/xvy1p8bo4bkcd4na7s2ng/beinar7.m3u8?rlkey=tdtl5904wr6qlrbfmj8wu0zdp&st=bxejjfn9
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 8 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlkey=wahbp7q07dxr6khxgnmfrfqbu&st=3hy5nclh
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE", BEIN SPORTS 9 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlkey=kbmouwhsa35pu5a701alljo9z&st=h99fkpab
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", TNT SPORTS 1 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/c0yv11f200zry3qd798so/tnt-sports-1.m3u8?rlkey=ify7vbhrszfpqn3f4bfkhocvp
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", TNT SPORTS 2 (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", DAZN 1
+https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u8?rlkey=bksecwoui0kk4ur9w694wpoie&st=9ikw9a1o
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", DAZN 2
+https://dl.dropboxusercontent.com/scl/fi/hzuohvvm8ii2uylse3fp0/dazn-eleven-2.m3u8?rlkey=uiep4egmqbs90zu875cc2cc3k&st=yscacidi
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", DAZN 3
+https://dl.dropboxusercontent.com/scl/fi/taplox7s0m43ezfvovanz/dazn-eleven-3.m3u8?rlkey=q98aj45h57crckblzvdn3dq0x&st=kaoxb698
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", DAZN 4
+https://dl.dropboxusercontent.com/scl/fi/2q6qc4isdtsov9vegm191/dazn-eleven-4.m3u8?rlkey=561ct8o4aomlke4hnagrq61ol&st=ccj5928c
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", DAZN 5
+https://dl.dropboxusercontent.com/scl/fi/p131eskmgz20jjk79qwnv/dazn-eleven-5.m3u8?rlkey=j4ym3utjczavwkas3cx8ertv9&st=0exhv3n8
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", DAZN 6
+https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u8?rlkey=3tgcpbxh91d80o23lgm7j8bzh&st=6mkn4b6w
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUE", ARENA PREMIUM 1
+https://dl.dropboxusercontent.com/scl/fi/872djk5i1b1va1ekkicqu/arena-premium-1.m3u8?rlkey=1mxpfd76v8he2ggcet6szzloq
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUE", ARENA PREMIUM 2
+https://dl.dropboxusercontent.com/scl/fi/iwrcmnng513aw9djjebft/arena-premium-2.m3u8?rlkey=jdf53r2ajcvv4ybl3r2z2ro6z
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUE", ARENA PREMIUM 3
+https://dl.dropboxusercontent.com/scl/fi/luds6ftzrmj1faljwwpnt/arena-premium-3.m3u8?rlkey=x82umtk3hqiftmjuafrzelpqz
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", ARENA SPORT 1
+https://dl.dropboxusercontent.com/scl/fi/qdsjkfm98usj9e2qcsi4d/arena-sport-1.m3u8?rlkey=93xgevpjvolajdyqpasxf995o
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", ARENA SPORT 2
+https://dl.dropboxusercontent.com/scl/fi/xh0yd1zmo7hlhphjtnjnx/arena-sport-2.m3u8?rlkey=gn26ghw71j1kir5h60jambcy2
+
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", ARENA SPORT 3
+https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u8?rlkey=ikgznd79bn8tba7mnr95gt3nn
+
+
+
 EXTM3U billed-msg="😎MASTER | lynk.id/magelife😎"
