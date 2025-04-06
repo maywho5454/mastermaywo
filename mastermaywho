@@ -4493,113 +4493,149 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 
 ===========================================KOREAN NON SUB | 23/1/2025 =========================================================
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
-#EXTINF:-1 group-logo="https://i.imgur.com/livnmIp.jpeg",JEPANG NON SUB
+#EXTINF:-1 group-logo="https://i.imgur.com/livnmIp.jpeg",DUNIA | JEPANG NON SUB
 
-#EXTINF:-1 tvg-name="JP: 衛星劇場 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 衛星劇場 JP
-http://iptv12k.com:35461/654321/123456/3175
-#EXTINF:-1 tvg-name="JP: 時代劇専門チャンネル JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 時代劇専門チャンネル JP
-http://iptv12k.com:35461/654321/123456/3174
-#EXTINF:-1 tvg-name="JP: 日本映画専門チャンネルHD" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 日本映画専門チャンネルHD
-http://iptv12k.com:35461/654321/123456/3173
-#EXTINF:-1 tvg-name="JP: 日本テレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 日本テレビ JP
-http://iptv12k.com:35461/654321/123456/3172
-#EXTINF:-1 tvg-name="JP: 日テレG JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 日テレG JP
-http://iptv12k.com:35461/654321/123456/3171
-#EXTINF:-1 tvg-name="JP: 関西テレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 関西テレビ JP
-http://iptv12k.com:35461/654321/123456/3170
-#EXTINF:-1 tvg-name="JP: 読売テレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 読売テレビ JP
-http://iptv12k.com:35461/654321/123456/3169
-#EXTINF:-1 tvg-name="JP: 東映チャンネル" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 東映チャンネル
-http://iptv12k.com:35461/654321/123456/3168
-#EXTINF:-1 tvg-name="JP: ホームドラマ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ホームドラマ JP
-http://iptv12k.com:35461/654321/123456/3167
-#EXTINF:-1 tvg-name="JP: フジテレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: フジテレビ JP
-http://iptv12k.com:35461/654321/123456/3166
-#EXTINF:-1 tvg-name="JP: ファミリー劇場 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ファミリー劇場 JP
-http://iptv12k.com:35461/654321/123456/3165
-#EXTINF:-1 tvg-name="JP: テレビ東京 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: テレビ東京 JP
-http://iptv12k.com:35461/654321/123456/3164
-#EXTINF:-1 tvg-name="JP: テレビ大阪 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: テレビ大阪 JP
-http://iptv12k.com:35461/654321/123456/3163
-#EXTINF:-1 tvg-name="JP: テレビ朝日 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: テレビ朝日 JP
-http://iptv12k.com:35461/654321/123456/3162
-#EXTINF:-1 tvg-name="JP: ディズニーチャンネル JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ディズニーチャンネル JP
-http://iptv12k.com:35461/654321/123456/3161
-#EXTINF:-1 tvg-name="JP: ディズニージュニア JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ディズニージュニア JP
-http://iptv12k.com:35461/654321/123456/3160
-#EXTINF:-1 tvg-name="JP: スターチャンネル 3 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スターチャンネル 3 JP
-http://iptv12k.com:35461/654321/123456/3159
-#EXTINF:-1 tvg-name="JP: スターチャンネル 2 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スターチャンネル 2 JP
-http://iptv12k.com:35461/654321/123456/3158
-#EXTINF:-1 tvg-name="JP: スターチャンネル 1 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スターチャンネル 1 JP
-http://iptv12k.com:35461/654321/123456/3157
-#EXTINF:-1 tvg-name="JP: スカイ A sports JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スカイ A sports JP
-http://iptv12k.com:35461/654321/123456/3156
-#EXTINF:-1 tvg-name="JP: サンテレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: サンテレビ JP
-http://iptv12k.com:35461/654321/123456/3155
-#EXTINF:-1 tvg-name="JP: ゴルフネットワーク JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ゴルフネットワーク JP
-http://iptv12k.com:35461/654321/123456/3154
-#EXTINF:-1 tvg-name="JP: キッズステーションHD JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: キッズステーションHD JP
-http://iptv12k.com:35461/654321/123456/3153
-#EXTINF:-1 tvg-name="JP: カートゥーンネットワーク JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: カートゥーンネットワーク JP
-http://iptv12k.com:35461/654321/123456/3152
-#EXTINF:-1 tvg-name="JP: アニマルプラネット JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: アニマルプラネット JP
-http://iptv12k.com:35461/654321/123456/3151
-#EXTINF:-1 tvg-name="JP: アニマックス JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: アニマックス JP
-http://iptv12k.com:35461/654321/123456/3150
-#EXTINF:-1 tvg-name="JP: WOWOWライブ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: WOWOWライブ JP
-http://iptv12k.com:35461/654321/123456/3149
-#EXTINF:-1 tvg-name="JP: WOWOWシネマ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: WOWOWシネマ JP
-http://iptv12k.com:35461/654321/123456/3148
-#EXTINF:-1 tvg-name="JP: WOWOWプライム JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: WOWOWプライム JP
-http://iptv12k.com:35461/654321/123456/3147
-#EXTINF:-1 tvg-name="JP: TOKYO MX JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: TOKYO MX JP
-http://iptv12k.com:35461/654321/123456/3146
-#EXTINF:-1 tvg-name="JP: TBSニュース JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: TBSニュース JP
-http://iptv12k.com:35461/654321/123456/3145
-#EXTINF:-1 tvg-name="JP: NHK総合大阪 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: NHK総合大阪 JP
-http://iptv12k.com:35461/654321/123456/3144
-#EXTINF:-1 tvg-name="ＮＨＫ総合東京 JP: NHK総合 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",ＮＨＫ総合東京 JP: NHK総合 JP
-http://iptv12k.com:35461/654321/123456/3143
-#EXTINF:-1 tvg-name="JP: NHKEテレ大阪 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: NHKEテレ大阪 JP
-http://iptv12k.com:35461/654321/123456/3142
-#EXTINF:-1 tvg-name="JP: NHK-Eテレ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: NHK-Eテレ JP
-http://iptv12k.com:35461/654321/123456/3141
-#EXTINF:-1 tvg-name="JP: BSプレミアム JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BSプレミアム JP
-http://iptv12k.com:35461/654321/123456/3140
-#EXTINF:-1 tvg-name="JP: BS1 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS1 JP
-http://iptv12k.com:35461/654321/123456/3139
-#EXTINF:-1 tvg-name="JP: MBS毎日放送 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: MBS毎日放送 JP
-http://iptv12k.com:35461/654321/123456/3138
-#EXTINF:-1 tvg-name="JP: J SPORTS 4 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: J SPORTS 4 JP
-http://iptv12k.com:35461/654321/123456/3137
-#EXTINF:-1 tvg-name="JP: J SPORTS 3 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: J SPORTS 3 JP
-http://iptv12k.com:35461/654321/123456/3136
-#EXTINF:-1 tvg-name="JP: J SPORTS 2 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg group-title="JEPANG NON SUB",JP: J SPORTS 2 JP
-http://iptv12k.com:35461/654321/123456/3135
-#EXTINF:-1 tvg-name="JP: J SPORTS 1 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: J SPORTS 1 JP
-http://iptv12k.com:35461/654321/123456/3134
-#EXTINF:-1 tvg-name="JP: IMAGICA BS JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: IMAGICA BS JP
-http://iptv12k.com:35461/654321/123456/3133
-#EXTINF:-1 tvg-name="JP: GREEN JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: GREEN JP
-http://iptv12k.com:35461/654321/123456/3132
-#EXTINF:-1 tvg-name="JP: GAORA JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: GAORA JP
-http://iptv12k.com:35461/654321/123456/3131
-#EXTINF:-1 tvg-name="JP: BS釣りビジョン JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS釣りビジョン JP
-http://iptv12k.com:35461/654321/123456/3130
-#EXTINF:-1 tvg-name="JP: BS日テレ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS日テレ JP
-http://iptv12k.com:35461/654321/123456/3129
-#EXTINF:-1 tvg-name="JP: BS朝日 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS朝日 JP
-http://iptv12k.com:35461/654321/123456/3128
-#EXTINF:-1 tvg-name="JP: BSフジ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BSフジ JP
-http://iptv12k.com:35461/654321/123456/3127
-#EXTINF:-1 tvg-name="JP: BSジャパン JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BSジャパン JP
-http://iptv12k.com:35461/654321/123456/3126
-#EXTINF:-1 tvg-name="JP: BS-TBS JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS-TBS JP
-http://iptv12k.com:35461/654321/123456/3125
-#EXTINF:-1 tvg-name="JP: AT-X HD JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: AT-X HD JP
-http://iptv12k.com:35461/654321/123456/3124
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhkg" tvg-logo="https://i.imgur.com/livnmIp.jpeg", NHK G Osaka
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg", MBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ytv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Yomiuri TV  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="suntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", SUN TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhkbs1" tvg-logo="https://i.imgur.com/livnmIp.jpeg", NHK BS1  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhkbsp" tvg-logo="https://i.imgur.com/livnmIp.jpeg", NHK BS Premium 4K
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bsntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS NTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bsasahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS Asahi  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bstbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS TBS  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bstvtokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS TV Tokyo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bsfuji" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS Fuji  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowowprime" tvg-logo="https://i.imgur.com/livnmIp.jpeg", WOWOW Prime  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowowlive" tvg-logo="https://i.imgur.com/livnmIp.jpeg", WOWOW Live  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowowcinema" tvg-logo="https://i.imgur.com/livnmIp.jpeg", WOWOW Cinema
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="starch1" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Star Channel 1  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="starch2" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Star Channel 2  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="starch3" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Star Channel 3  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="greench" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Green Channel  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="animax" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS Animax  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js1" tvg-logo="https://i.imgur.com/livnmIp.jpeg", J SPORTS 1  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js2" tvg-logo="https://i.imgur.com/livnmIp.jpeg", J SPORTS 2  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js3" tvg-logo="https://i.imgur.com/livnmIp.jpeg", J SPORTS 3  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js4" tvg-logo="https://i.imgur.com/livnmIp.jpeg", J SPORTS 4  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fishing" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS Fishing Vision  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowowplus" tvg-logo="https://i.imgur.com/livnmIp.jpeg", WOWOW Plus
+#https://code.vthanhtivi.pw/getlink/jptvvn/36/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BS Japan Movie Channel  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="disneych" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="toeich" tvg-logo="https://i.imgur.com/livnmIp.jpeg", 東映チャンネル / Toei Channel
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="eigeki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", 衛星劇場 / Eisei Gekijo 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="neco" tvg-logo="https://i.imgur.com/livnmIp.jpeg", 映画・チャンネルNECO / Neco 
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="skya" tvg-logo="https://i.imgur.com/livnmIp.jpeg", スカイ・A / Sky A  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="gaora" tvg-logo="https://i.imgur.com/livnmIp.jpeg", GAORA SPORTS  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ntvgplus" tvg-logo="https://i.imgur.com/livnmIp.jpeg", 日テレジータス / Nittele G+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="familygeki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", ファミリー劇場 / Family Gekijyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fox" tvg-logo="https://i.imgur.com/livnmIp.jpeg", FOX  
+#https://code.vthanhtivi.pw/getlink/jptvvn/63/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kidsstation" tvg-logo="https://i.imgur.com/livnmIp.jpeg", キッズステーション / Kids Staton TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="cartoonnw" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Cartoon Network 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="disneyjr" tvg-logo="https://i.imgur.com/livnmIp.jpeg", ディズニージュニア / Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="discovery" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Discovery Channel  
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="natgeo" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Natgeo Japan
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="historych" tvg-logo="https://i.imgur.com/livnmIp.jpeg", History
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="cnnj" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",CNN Japan
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BBC NEWS JP
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/livnmIp.jpegg" group-title="DUNIA | JEPANG NON SUB", Vod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium414/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/livnmIp.jpegg" group-title="DUNIA | JEPANG NON SUB", Vod jp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
 
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
