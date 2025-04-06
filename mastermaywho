@@ -6857,6 +6857,31 @@ http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
 #EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", PLAY SPORT 3 
 http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
 
+#EXTINF:-1 tvg-id="Dazn 1 Bar" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",Dazn 1 Bar
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/DaznBar1.m3u8
+
+
+#EXTINF:-1 tvg-id="Dazn 2 Bar" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",Dazn 2 Bar
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/DaznBar2.m3u8
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", ELEVEN SPORTS 1
+https://dl.dropboxusercontent.com/scl/fi/4d2c1ce1640grvyqrchk7/ELEVEN-SPORTS-1.m3u8?rlkey=dslah5mg5yhitjhyqqi2irppi
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", ELEVEN SPORTS 2
+https://dl.dropboxusercontent.com/scl/fi/25s2iqnr47z4nx52nbobo/ELEVEN-SPORTS-2.m3u8?rlkey=5nfvg5eciiaswl9twmz1yd3pq
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", ELEVEN SPORTS 3
+https://dl.dropboxusercontent.com/scl/fi/zz575lgcixruzzknrgqqv/ELEVEN-SPORTS-3.m3u8?rlkey=nns9esw5mt4oo7s7h9s9wvlhd
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 1 ES
+https://dl.dropboxusercontent.com/scl/fi/684m55tgc57qg6opwzo6a/DAZN-1-ES.m3u8?rlkey=uymo3b4skmvrlhg5eh5oync5c
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 2 ES
+https://dl.dropboxusercontent.com/scl/fi/4fhe4f83mgfu1fzy6dkko/DAZN-2-ES.m3u8?rlkey=k6jf0ekfwl6wrx8era5399v8w
+
+
 #EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 1
 https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u8?rlkey=bksecwoui0kk4ur9w694wpoie&st=9ikw9a1o
 
