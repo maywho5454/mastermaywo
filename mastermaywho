@@ -4406,89 +4406,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
 ===========================================KOREAN NON SUB | 23/1/2025 =========================================================
-#EXTINF:-1 group-logo="https://i.imgur.com/e8w10pk.jpeg",KOREA NON SUB
+#EXTINF:-1 group-logo="https://i.imgur.com/e8w10pk.jpeg",DUNIA | KOREA NON SUB
 ======================
 ======================
-#EXTINF:-1 tvg-name="KR: kbs2 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: kbs2 KR
-http://iptv12k.com:35461/654321/123456/3233
-#EXTINF:-1 tvg-name="KR: sbs KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: sbs KR
-http://iptv12k.com:35461/654321/123456/3232
-#EXTINF:-1 tvg-name="KR: mbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbc KR
-http://iptv12k.com:35461/654321/123456/3231
-#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbn KR
-http://iptv12k.com:35461/654321/123456/3230
-#EXTINF:-1 tvg-name="KR: jtbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: jtbc KR
-http://iptv12k.com:35461/654321/123456/3229
-#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: spotv2 KR
-http://iptv12k.com:35461/654321/123456/3228
-#EXTINF:-1 tvg-name="KR: tvn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: tvn KR
-http://iptv12k.com:35461/654321/123456/3227
-#EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: CHANNEL A KR
-http://iptv12k.com:35461/654321/123456/3226
-#EXTINF:-1 tvg-name="KR: INET KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: INET KR
-http://iptv12k.com:35461/654321/123456/3225
-#EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: YTN KR
-http://iptv12k.com:35461/654321/123456/3224
-#EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: OCN KR
-http://iptv12k.com:35461/654321/123456/3223
-#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: OCN movies KR
-http://iptv12k.com:35461/654321/123456/3222
-#EXTINF:-1 tvg-name="KR: 迪士尼JU KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 迪士尼JU KR
-http://iptv12k.com:35461/654321/123456/3221
-#EXTINF:-1 tvg-name="KR: MBC电视剧 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC电视剧 KR
-http://iptv12k.com:35461/654321/123456/3220
-#EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC스포츠 KR
-http://iptv12k.com:35461/654321/123456/3219
-#EXTINF:-1 tvg-name="KR: CTS Onstyle KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: CTS Onstyle KR
-http://iptv12k.com:35461/654321/123456/3218
-#EXTINF:-1 tvg-name="KR:  TV조선 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR:  TV조선 KR
-http://iptv12k.com:35461/654321/123456/3217
-#EXTINF:-1 tvg-name="KR: CBS KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: CBS KR
-http://iptv12k.com:35461/654321/123456/3216
-#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SPOTV KR
-http://iptv12k.com:35461/654321/123456/3215
-#EXTINF:-1 tvg-name="KR: KBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: KBS스포츠 KR
-http://iptv12k.com:35461/654321/123456/3214
-#EXTINF:-1 tvg-name="KR: MNET KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MNET KR
-http://iptv12k.com:35461/654321/123456/3213
-#EXTINF:-1 tvg-name="KR: 바둑TV KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 바둑TV KR
-http://iptv12k.com:35461/654321/123456/3212
-#EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS plus KR
-http://iptv12k.com:35461/654321/123456/3211
-#EXTINF:-1 tvg-name="KR: OCN thrills KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: OCN thrills KR
-http://iptv12k.com:35461/654321/123456/3210
-#EXTINF:-1 tvg-name="KR: 연합뉴스TV  KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 연합뉴스TV  KR
-http://iptv12k.com:35461/654321/123456/3209
-#EXTINF:-1 tvg-name="KR: 내셔널지오그래 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 내셔널지오그래 KR
-http://iptv12k.com:35461/654321/123456/3208
-#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS스포츠 KR
-http://iptv12k.com:35461/654321/123456/3207
-#EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS골프 KR
-http://iptv12k.com:35461/654321/123456/3206
-#EXTINF:-1 tvg-name="KR: JTBC골프 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: JTBC골프 KR
-http://iptv12k.com:35461/654321/123456/3205
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KBS 1TV
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
  
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KBS 2TV
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
  
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",SBS
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",MBC
+#EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",JTBC
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",JTBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
  
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",MNet
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",MNet
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",tvN
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",tvN
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",tvN Show
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA NON SUB",tvN Show
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 
 ===========================================KOREAN NON SUB | 23/1/2025 =========================================================
@@ -5398,63 +5340,63 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 FA CUP
 ===========
 
-#EXTINF:-1 group-logo="https://i.imgur.com/lInKChP.jpeg",BOLA| FA CUP
+#EXTINF:-1 group-logo="https://i.imgur.com/lInKChP.jpeg",BOLA | FA CUP
 ===START
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 1
 https://dl.dropboxusercontent.com/scl/fi/mgvsode8m4rrnx6nlluuw/optus-sport-1.m3u8?rlkey=6a3415zb47ya7e2wohdf0fvu4&st=t8n7uo1b
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 2
 https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u8?rlkey=ckr131etzf0lej2zk6s3cyemp&st=whcwztx3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 3
 https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u8?rlkey=hdmsdek6an2i7yynl1wyh5tx3&st=vuzds216
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 4
 https://dl.dropboxusercontent.com/scl/fi/2cegckls6t1w04jmw19pd/optus-sport-4.m3u8?rlkey=a8dvjrbr3b4jwhmmh06pm6xvc&st=4uo4bi4t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 5
 https://dl.dropboxusercontent.com/scl/fi/5bp5oqd6judwuxjuli836/optus-sport-5.m3u8?rlkey=f58530jrj3g1cig1ktp5ieton&st=5qaipy5t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 6
 https://dl.dropboxusercontent.com/scl/fi/hbxhg527tp4jmxlnsyhqx/optus-sport-6.m3u8?rlkey=f0jcu7gvylmfmfmzr1kwme2po&st=ftvtuvbw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 7
 https://dl.dropboxusercontent.com/scl/fi/dqmiz6ckuj05y2p0144op/optus-sport-7.m3u8?rlkey=6ee3100r5lirikkaffhzdqvne&st=111nhqn7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", OPTSPORT 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", OPTSPORT 8
 https://dl.dropboxusercontent.com/scl/fi/fdakmjqqn7h4jvxbv2jvk/optus-sport-8.m3u8?rlkey=kw1kaeqvx5zblm2esj4acxxji&st=7epuzc02
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 1
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 1
 https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u8?rlkey=bksecwoui0kk4ur9w694wpoie&st=9ikw9a1o
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 2
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 2
 https://dl.dropboxusercontent.com/scl/fi/hzuohvvm8ii2uylse3fp0/dazn-eleven-2.m3u8?rlkey=uiep4egmqbs90zu875cc2cc3k&st=yscacidi
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 3
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 3
 https://dl.dropboxusercontent.com/scl/fi/taplox7s0m43ezfvovanz/dazn-eleven-3.m3u8?rlkey=q98aj45h57crckblzvdn3dq0x&st=kaoxb698
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 4
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 4
 https://dl.dropboxusercontent.com/scl/fi/2q6qc4isdtsov9vegm191/dazn-eleven-4.m3u8?rlkey=561ct8o4aomlke4hnagrq61ol&st=ccj5928c
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 5
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 5
 https://dl.dropboxusercontent.com/scl/fi/p131eskmgz20jjk79qwnv/dazn-eleven-5.m3u8?rlkey=j4ym3utjczavwkas3cx8ertv9&st=0exhv3n8
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 6
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", DAZN 6
 https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u8?rlkey=3tgcpbxh91d80o23lgm7j8bzh&st=6mkn4b6w
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", ARENA PREMIUM 1
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", ARENA PREMIUM 1
 https://dl.dropboxusercontent.com/scl/fi/872djk5i1b1va1ekkicqu/arena-premium-1.m3u8?rlkey=1mxpfd76v8he2ggcet6szzloq
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", ARENA PREMIUM 2
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", ARENA PREMIUM 2
 https://dl.dropboxusercontent.com/scl/fi/iwrcmnng513aw9djjebft/arena-premium-2.m3u8?rlkey=jdf53r2ajcvv4ybl3r2z2ro6z
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA| FA CUP", ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/lInKChP.jpeg" group-title="BOLA | FA CUP", ARENA PREMIUM 3
 https://dl.dropboxusercontent.com/scl/fi/luds6ftzrmj1faljwwpnt/arena-premium-3.m3u8?rlkey=x82umtk3hqiftmjuafrzelpqz
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", ARENA SPORT 1
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", ARENA SPORT 1
 https://dl.dropboxusercontent.com/scl/fi/qdsjkfm98usj9e2qcsi4d/arena-sport-1.m3u8?rlkey=93xgevpjvolajdyqpasxf995o
 
-#EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", ARENA SPORT 2
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", ARENA SPORT 2
 https://dl.dropboxusercontent.com/scl/fi/xh0yd1zmo7hlhphjtnjnx/arena-sport-2.m3u8?rlkey=gn26ghw71j1kir5h60jambcy2
 
 #EXTINF:-1 group-title="BOLA| FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", ARENA SPORT 3
