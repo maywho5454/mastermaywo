@@ -6211,38 +6211,27 @@ END |OLAHRAGA POPULER
 
 FORMULA 1
 ===========
-#EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",FORMULA 1
+#EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
 
-===>>>21/3/2025<<<====
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Diema Sport Bulgaria
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium465/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Diema Sport 2 Bulgaria
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium466/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="CHANNEL | SPORTS",SKY SPORT F1 ( 1)
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://line.ultrab.xyz:80/2FFC00/271506/105838
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Diema Sport 3 Bulgaria
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium467/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg", SKY SPORT F1 ( 2)
+https://dl.dropboxusercontent.com/scl/fi/hmz8v4t4cwmo5aqkfud2t/skysportsf1_de.m3u8?rlkey=v91hrpa3itm8fjddvs22o0bzh&st=e0o97i8w
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1" , DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg", SKY SPORT F1 ( 3)
+https://dl.dropboxusercontent.com/scl/fi/b9tez8phv06g04xme6yq7/skysportsf1_de-2.m3u8?rlkey=yxlo7c9rs4v48muc6v5p5hhs4
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg", DAZN F1 (1) (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/zf09brw09usr2j1ahstp1/daznf1.m3u8?rlkey=6r31gbl37poka96z09ekkrt5q&st=ny121qb1
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo=https://i.imgur.com/YNcq1yN.jpeg", DAZN F1 (2) (WORTH)
+https://dl.dropboxusercontent.com/scl/fi/m7hvcyxuq3210cw3exkdb/daznf1-2.m3u8?rlkey=epc6inbykey54ytdbj27x5cui 
 
 #EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",SS MotorSport
 http://aflaxtv.xyz:8080/F25093/29838750/303855
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1",Canal+ Formula 1
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium273/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-===>>>21/3/2025<<<====
-#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1", Sky SPORT F1 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
