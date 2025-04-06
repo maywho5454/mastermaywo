@@ -5761,13 +5761,13 @@ END | AGAMA
 ==========
 UFC
 ===========
-#EXTINF:-1 group-logo="https://i.imgur.com/ZJvXooj.jpeg",UFC
+#EXTINF:-1 group-logo="https://i.imgur.com/ZJvXooj.jpeg",OLAHRAGA | UFC
 
 ===Edit 11/12/2024
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-#EXTINF:-1 tvg-id="701" group-title="UFC" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",Unifi Sports 1 HD
+#EXTINF:-1 tvg-id="701" group-title="OLAHRAGA | UFC" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",Unifi Sports 1 HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
@@ -6864,45 +6864,49 @@ SERIE A
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ============================
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", PLAY SPORT 1 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", PLAY SPORT 2 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", PLAY SPORT 3 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
 
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 1
+https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u8?rlkey=bksecwoui0kk4ur9w694wpoie&st=9ikw9a1o
 
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 2
+https://dl.dropboxusercontent.com/scl/fi/hzuohvvm8ii2uylse3fp0/dazn-eleven-2.m3u8?rlkey=uiep4egmqbs90zu875cc2cc3k&st=yscacidi
 
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium434/mono.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 3
+https://dl.dropboxusercontent.com/scl/fi/taplox7s0m43ezfvovanz/dazn-eleven-3.m3u8?rlkey=q98aj45h57crckblzvdn3dq0x&st=kaoxb698
 
-#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 4
+https://dl.dropboxusercontent.com/scl/fi/2q6qc4isdtsov9vegm191/dazn-eleven-4.m3u8?rlkey=561ct8o4aomlke4hnagrq61ol&st=ccj5928c
 
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 5
+https://dl.dropboxusercontent.com/scl/fi/p131eskmgz20jjk79qwnv/dazn-eleven-5.m3u8?rlkey=j4ym3utjczavwkas3cx8ertv9&st=0exhv3n8
 
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", DAZN 6
+https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u8?rlkey=3tgcpbxh91d80o23lgm7j8bzh&st=6mkn4b6w
 
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT PREMIUM 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA PREMIUM 1
+https://dl.dropboxusercontent.com/scl/fi/872djk5i1b1va1ekkicqu/arena-premium-1.m3u8?rlkey=1mxpfd76v8he2ggcet6szzloq
 
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA PREMIUM 2
+https://dl.dropboxusercontent.com/scl/fi/iwrcmnng513aw9djjebft/arena-premium-2.m3u8?rlkey=jdf53r2ajcvv4ybl3r2z2ro6z
 
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT PREMIUM 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA PREMIUM 3
+https://dl.dropboxusercontent.com/scl/fi/luds6ftzrmj1faljwwpnt/arena-premium-3.m3u8?rlkey=x82umtk3hqiftmjuafrzelpqz
 
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", ARENA SPORT 1
+https://dl.dropboxusercontent.com/scl/fi/qdsjkfm98usj9e2qcsi4d/arena-sport-1.m3u8?rlkey=93xgevpjvolajdyqpasxf995o
 
-#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A", ARENA SPORT PREMIUM 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", ARENA SPORT 2
+https://dl.dropboxusercontent.com/scl/fi/xh0yd1zmo7hlhphjtnjnx/arena-sport-2.m3u8?rlkey=gn26ghw71j1kir5h60jambcy2
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/81w3AhI.jpeg", ARENA SPORT 3
+https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u8?rlkey=ikgznd79bn8tba7mnr95gt3nn
+
 
 #EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url="" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",CBS Sports Golazo
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
