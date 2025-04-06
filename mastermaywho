@@ -6214,7 +6214,7 @@ FORMULA 1
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
 
 
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="CHANNEL | SPORTS",SKY SPORT F1 ( 1)
+#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",SKY SPORT F1 ( 1)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://line.ultrab.xyz:80/2FFC00/271506/105838
 
@@ -6224,10 +6224,10 @@ https://dl.dropboxusercontent.com/scl/fi/hmz8v4t4cwmo5aqkfud2t/skysportsf1_de.m3
 #EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg", SKY SPORT F1 ( 3)
 https://dl.dropboxusercontent.com/scl/fi/b9tez8phv06g04xme6yq7/skysportsf1_de-2.m3u8?rlkey=yxlo7c9rs4v48muc6v5p5hhs4
 
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg", DAZN F1 (1) (WORTH)
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg", DAZN F1 (1) (WORTH)
 https://dl.dropboxusercontent.com/scl/fi/zf09brw09usr2j1ahstp1/daznf1.m3u8?rlkey=6r31gbl37poka96z09ekkrt5q&st=ny121qb1
 
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo=https://i.imgur.com/YNcq1yN.jpeg", DAZN F1 (2) (WORTH)
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo=https://i.imgur.com/YNcq1yN.jpeg", DAZN F1 (2) (WORTH)
 https://dl.dropboxusercontent.com/scl/fi/m7hvcyxuq3210cw3exkdb/daznf1-2.m3u8?rlkey=epc6inbykey54ytdbj27x5cui 
 
 #EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",SS MotorSport
