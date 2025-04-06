@@ -5801,13 +5801,13 @@ GOLF
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/sInIG51.jpeg",OLAHRAGA | GOLF
 
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
+#EXTINF:-1 group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg", UK: SKY SPORTS GOLF
 https://dl.dropboxusercontent.com/scl/fi/xmoq8y3yzi6g5epz6qex4/SKY-SPORTS-GOLF.m3u8?rlkey=txxy9bu7kddv02trb5bvd5b1l
 
-#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="CHANNEL | SPORTS",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",GOLF CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/191942.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://lo1.in/MALAY/glfch.png",SKY SPORTS MIX
+#EXTINF:-1 group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg",SKY SPORTS MIX
 https://dl.dropboxusercontent.com/scl/fi/3m1lbuzmy5qnp8bo5hv3l/SKY-SPORTS-MIX.m3u8?rlkey=w2ya0b7qc0vlwcef7nu7p9niw
 
 
