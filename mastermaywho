@@ -4204,8 +4204,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cine
 
 ====
 ======>>>20/3/2025<<<=========
-#EXTINF:-1 group-title="FILM" tvg-id="flik.id" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg",Flik ON
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM", Flik ON 1
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM",Flik ON 2
+http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302244.m3u8
 
 
 ======>>>20/3/2025<<<=========
