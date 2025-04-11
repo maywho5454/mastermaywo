@@ -6588,6 +6588,67 @@ https://dl.dropboxusercontent.com/scl/fi/dqmiz6ckuj05y2p0144op/optus-sport-7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", OPTSPORT 8
 https://dl.dropboxusercontent.com/scl/fi/fdakmjqqn7h4jvxbv2jvk/optus-sport-8.m3u8?rlkey=kw1kaeqvx5zblm2esj4acxxji&st=7epuzc02
 
+==========SELIP BARU============== 11/4/2025
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",EPL EVENT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",EPL EVENT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" , DIEMA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" , DIEMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.newkso.ru/wind/premium467/mono.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", SkySPORTS 2 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 4 NZ" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", SkySPORTS 4 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 6 NZ" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", SkySPORTS 6 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale live/
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 7 NZ" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", SkySPORTS 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
+
+#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", SkySPORTS EPL NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
+
+#EXTINF:-1 tvg-id="NovaSport.PL" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Nova Sport PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://windnew.newkso.ru/wind/premium599/mono.m3u8
+
+
+
+
+==================================
+
 #EXTINF:-1 group-title="BOLA | LIGA INGGRIS " tvg-logo="https://i.imgur.com/pm6ULZT.jpeg", TNT SPORTS 1
 https://dl.dropboxusercontent.com/scl/fi/c0yv11f200zry3qd798so/tnt-sports-1.m3u8?rlkey=ify7vbhrszfpqn3f4bfkhocvp
 
@@ -6785,6 +6846,11 @@ BUNDESLIGA
 
 ============================
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA" , DIEMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.newkso.ru/wind/premium467/mono.m3u8
 
 #EXTINF:-1 group-title="BOLA | BUNDESLIGA"" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ELEVEN SPORTS 2
 https://dl.dropboxusercontent.com/scl/fi/25s2iqnr47z4nx52nbobo/ELEVEN-SPORTS-2.m3u8?rlkey=5nfvg5eciiaswl9twmz1yd3pq
