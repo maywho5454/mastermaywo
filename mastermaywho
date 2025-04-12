@@ -6649,6 +6649,16 @@ https://windnew.newkso.ru/wind/premium599/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", Sky SPORT CALCIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium871/mono.m3u8
+
+#EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title=BOLA | LIGA INGGRIS"",Nova Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
+
 
 
 
@@ -6900,6 +6910,11 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
+#EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",Nova Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
+
 #EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ELEVEN SPORTS 2
 https://dl.dropboxusercontent.com/scl/fi/25s2iqnr47z4nx52nbobo/ELEVEN-SPORTS-2.m3u8?rlkey=5nfvg5eciiaswl9twmz1yd3pq
 
@@ -7017,6 +7032,11 @@ https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u
 #EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url="" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",CBS Sports Golazo
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 ===EDT
+
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title=BOLA | SERIE A", Sky SPORT CALCIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium871/mono.m3u8
 
 
 
