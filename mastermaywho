@@ -4799,26 +4799,21 @@ KUALIFIKASI PIALA DUNIA
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/SHgrGfb.jpeg" group-title="KUALIFIKASI PIALA DUNIA", Soccer Channel (WORTH)
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/SHgrGfb.jpeg" group-title="KUALIFIKASI PIALA DUNIA", MNC Sportstars 2 (WORTH)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="https://i.imgur.com/SHgrGfb.jpeg",MNC Sportstar 3 (WORTH)
+#EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="https://i.imgur.com/momMGOk.jpeg",MNC Sportstars 1 ON (R)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=112
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+
+#EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="https://i.imgur.com/momMGOk.jpeg",MNC Sportstars 2 ON (R)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -6008,35 +6003,30 @@ FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1" , F1 GRAND PRIX 2025 1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1" , DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://wikinew.newkso.ru/wiki/daznf1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  F1 GRAND PRIX 2025 2
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1", SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://top2new.newkso.ru/top2/eplayerskyf1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  F1 GRAND PRIX 2025 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",SKY SPORT LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  F1 GRAND PRIX 2025 4
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  F1 GRAND PRIX 2025 5
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT LIVE 1V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  F1 GRAND PRIX 2025 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://reliabletv.me/
-https://s-b2.aistrem.net/plyvivo/m0yer0rube7ibomumugu/chunklist.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",Bein Sports 1 (ID)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
