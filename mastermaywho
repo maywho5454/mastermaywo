@@ -3455,11 +3455,18 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd|Refere
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",MNC TV 1 ON (R)
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="NASIONAL",MNC TV 2 ON (R)
+
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",MNC TV 2 ON (R)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MNCTV.id" tvg-logo=""https://i.imgur.com/JXLOOxS.jpeg",MNC TV 3 ON (R)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 
 -----------
@@ -3559,20 +3566,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/LoyaFMC.jpeg",RTV 2 ON (R)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
--------------
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+---------------
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg" group-title="NASIONAL",Sindonews TV 1 ON (R)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg",SindoNews 1 ON
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+ 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg" group-title="NASIONAL",SindoNews 2 ON
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+
+
+----------------
 
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg",TV One 1 ON
@@ -4256,13 +4261,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
 =====
-#EXTINF:-1 group-title="CHANNEL | VISION+" tvg-id="hits.sg" tvg-logo="https://i.imgur.com/7mZwDie.jpeg",HITS 1 On
+#EXTINF:-1 group-title="FILM" tvg-id="hits.sg" tvg-logo="https://i.imgur.com/7mZwDie.jpeg",HITS 1 On
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
 
-#EXTINF:-1 group-title="CHANNEL | VISION+" tvg-id="hitsmovies.sg" tvg-logo="https://i.imgur.com/A58Jd0u.jpeg",HITS Movies 1 On
+#EXTINF:-1 group-title="FILM" tvg-id="hitsmovies.sg" tvg-logo="https://i.imgur.com/A58Jd0u.jpeg",HITS Movies 1 On
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
