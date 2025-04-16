@@ -3720,24 +3720,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="HBO",ID: HBO Signature INDO (AFX)
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
 ===========27/2/2025 HBO SUB INDO ============
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO", HBO (INDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://dl.dropboxusercontent.com/s/thssbdwxzyfv082/hbo.m3u8
-
-
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="HBO", HBO HITS (INDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://dl.dropboxusercontent.com/s/qshddsireyu9g70/hbohits.m3u8?dl=0
-
-
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="HBO", HBO SIGNATURE (INDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://dl.dropboxusercontent.com/s/j5v8v55gep43g65/hbosig.m3u8
-
-
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="HBO", HBO FAMILY (INDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://dl.dropboxusercontent.com/s/dr95qxd7iaclts5/hbofam.m3u8
+DIHAPUS
 
 
 
@@ -3784,6 +3767,12 @@ ANAK
 #EXTINF:-1 group-logo="https://i.imgur.com/rzdTiDx.jpeg",ANAK
 
 =======EDT [21/11/2024]
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg",Horee!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/bCTSmje.jpeg",Cartoonito 1 ON
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
