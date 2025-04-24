@@ -3432,7 +3432,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
---------
+-------- jghj
 ----------
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",Mnc Tv 1 On (+)
 #EXTVLCOPT:http-user-agent=android-R+
