@@ -6598,12 +6598,6 @@ https://zekonew.newkso.ru/zeko/premium871/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",SKY SPORTS PREMIER LEAGUE 1 (L)
-https://dl.dropboxusercontent.com/scl/fi/w2jeu8kojqfsskksjnr5l/skysportspl.m3u8?rlkey=8gpod59u0o1npvdbk64p6sx5l
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",SKY SPORTS PREMIER LEAGUE 2
-https://dl.dropboxusercontent.com/scl/fi/2me8p2rhz8t1gea8vkky2/skysportspl-2.m3u8?rlkey=dyccwxjkhpylrgbbenfqu9i36
-
 #EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",True Premiere Football 1 (R)
 #https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 http://ott.premium-tv.org:8789/wonton57/874893/235216
