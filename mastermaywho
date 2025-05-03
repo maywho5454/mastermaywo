@@ -4150,10 +4150,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM", Flik ON 1
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg " group-title="FILM",FLIK
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/flik.m3u8
+
 
 EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM",Flik ON 2
 http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302244.m3u8
@@ -6101,7 +6102,7 @@ https://warningfm.github.io/v3/live/str/ns/b213b64047f564c.m3u8
 
 
 
-#EXTINF:-1 group-title="BERITA" tvg-id="abcaustralia.au" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",ABC Australia 1 On (R)
+#EXTINF:-1 group-title="BERITA" tvg-id="abcaustralia.au" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",ABC Australia 1 On (*R)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
