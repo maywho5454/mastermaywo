@@ -4698,16 +4698,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-id="MtrSpt1" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",MtrSpt1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
-
-
 #EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",SS MotoGP
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
-
-#EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",SS MotorSport
-http://aflaxtv.xyz:8080/F25093/29838750/303855
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 1 (I) (WORTH)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5800,25 +5792,12 @@ FORMULA 1
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
 
 
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1", SKY SPORT F1 OK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://top2new.newkso.ru/top2/eplayerskyf1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",SKY SPORT LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT F1
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT F1 1 ON (R)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT LIVE 1V
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
+
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | FORMULA 1", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5845,14 +5824,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",SKY SPORT F1 ( 1)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://line.ultrab.xyz:80/2FFC00/271506/105838
-
-
-#EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",SS MotorSport
-http://aflaxtv.xyz:8080/F25093/29838750/303855
-
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="OLAHRAGA | FORMULA 1",TSN 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
 
@@ -5878,24 +5849,6 @@ MUSIC
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/CctbVah.jpeg", MUSIC
 
-====
-
-#EXTINF: -1 tvg-id="Clubbing TV" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Clubbing TV
-http://www.geocities.ws/wahyuiptv/ClubbingTV.m3u8
-
-#EXTINF: -1 tvg-id="MetalTV" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Metal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Metal.m3u8
-
-
-#EXTINF: -1 tvg-id="FreshDance" tvg-logo="https://i.imgur.com/CctbVah.jpeg" group-title="MUSIC",Fresh Dance
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/FreshDance.m3u8
-
-====
-
-
-=
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
