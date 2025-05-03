@@ -3756,6 +3756,45 @@ http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", NICKELODEON INDO 1 ON (R)
 http://202.147.193.244/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
+#EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpegg" group-title="ANAK", DISNEY CHANNEL 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20channel.m3u8
+
+#EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DISNEY JUNIOR 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20junior.m3u8
+
+#EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DISNEY XD 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20xd.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", BABYTV 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babytv.m3u8
+
+
+#EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", BABY FIRST 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babyfirst.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 1 ON (R)
+http://202.147.193.244/live/eds/Animax/sa_dash/Animax.mpd
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 1 ON (R)
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIMAX.m3u8
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", BIZNET KIDS 1 ON (R)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+
+#EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DA VINCI 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/davinci.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", SPACETOON 1 ON (R) 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spacetoon.m3u8
+
+
+
 =======EDT [21/11/2024]
 
 
@@ -5551,7 +5590,42 @@ MALAYSIA
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/O1RVjqG.jpeg",DUNIA | MALAYSIA
 
-============13/2/2025===================
+========
+NEW 4/5/2025
+==========
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO BOO 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO OASIS 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20OASIS.m3u8
+
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO AURA 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO SHOWCASE 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO HUA HEE DAI 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
+
+#EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", BERNAMA 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO CRICKET 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ZEE TAMIL 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZEE%20TAMIL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", STAR VIJAY 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", SUN TV 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
+
+
+
+
 
 ===========>>>24/3/2025<<<==========
 #EXTINF:-1, group-title="DUNIA | MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/0iCBqWG.jpeg",Travel&Taste 
@@ -5790,6 +5864,9 @@ https://windnew.newkso.ru/wind/premium70/mono.m3u8|referer=https://pkpakiplay.xy
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Sky Sports Golf Italy On 1 (R)
 https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg", UK: SKY SPORTS GOLF 1 ON (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
 
 
 
@@ -6036,6 +6113,28 @@ END |OLAHRAGA POPULER
 FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
+
+
+==================
+NEW 4/5/2025
+===========
+
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",SKY SPORTS F1 1 ON HD (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",SKY SPORTS F1 2 ON HD (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8 
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",SKY SPORT F1 1 ON HD (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",SKY SPORT F1 2 ON HD (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de%202.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",DAZN F1 1 ON HD (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",DAZN F1 2 ON HD (R)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
 
 
 #EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT F1 1 ON (R)
