@@ -7101,7 +7101,7 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/grZDehi.png" group-title="BOLA | LIGA INGGRIS ", ARENA SPORT 3 (BUTUH KONEKSI CEPAT STABIL)
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/grZDehi.png" group-title="BOLA | LIGA INGGRIS", ARENA SPORT 3 (BUTUH KONEKSI CEPAT STABIL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
@@ -7522,22 +7522,22 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 #EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", DIGI SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 1
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 2
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg group-title="BOLA | LALIGA", ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
-#EXTINF:-1 group-title=BOLA | LALIGA" tvg-logo="https://i.imgur.com/PXIYxfh ARENA SPORT 1
+#EXTINF:-1 group-title=BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ARENA SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
 
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ARENA SPORT 2
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ARENA SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
 
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ARENA SPORT 3
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ARENA SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
 
 ===========================================================================================================================================================
@@ -7555,7 +7555,7 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/grZDehi.png" group-title="BOLA | LALIGA ", ARENA SPORT 3 (BUTUH KONEKSI CEPAT STABIL)
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/grZDehi.png" group-title="BOLA | LALIGA", ARENA SPORT 3 (BUTUH KONEKSI CEPAT STABIL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
