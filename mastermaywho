@@ -7332,7 +7332,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premiu
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA", ARENA PREMIUM 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/PXIYxfh.jpeggroup-title="BOLA | BUNDESLIGA", ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA", ARENA PREMIUM 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
 #EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ARENA SPORT 1
@@ -7341,7 +7341,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%
 #EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ARENA SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
 
-#EXTINF:-1 group-title=BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ARENA SPORT 3
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg", ARENA SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
 
 
@@ -7528,7 +7528,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premiu
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/PXIYxfh.jpeggroup-title="BOLA | LALIGA", ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg group-title="BOLA | LALIGA", ARENA PREMIUM 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
 #EXTINF:-1 group-title=BOLA | LALIGA" tvg-logo="https://i.imgur.com/PXIYxfh ARENA SPORT 1
