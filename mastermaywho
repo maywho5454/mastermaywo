@@ -4588,15 +4588,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg " group-title="FILM",FLIK
-#EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/flik.m3u8
-
-
-EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM",Flik ON 2
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302244.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOJiQSM.jpeg " group-title="FILM",FLIK
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 
 ======>>>20/3/2025<<<=========
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
