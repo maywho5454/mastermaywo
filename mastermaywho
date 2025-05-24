@@ -3425,7 +3425,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Trans TV" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL+",Trans TV 3 ON (R)
+#EXTINF:-1 tvg-id="Trans TV" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL",Trans TV 3 ON (R)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd 
@@ -3944,15 +3944,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babytv.m3u8
 #EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", BABY FIRST 1 ON (R)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babyfirst.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 1 ON (R)
-http://202.147.193.244/live/eds/Animax/sa_dash/Animax.mpd
-
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 2 ON (R)
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIMAX.m3u8
-
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", BIZNET KIDS 1 ON (R)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
@@ -4049,21 +4040,12 @@ https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
 
 ---------
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=56
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/3vQAhUK.jpeg" group-title="ANAK",Kids TV 1 On (R)
-https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
 
-#EXTINF:-1 group-title="ANAK"  tvg-logo="https://i.imgur.com/3vQAhUK.jpeg",Kids TV 2 On (R)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://202.147.193.244/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
+
 =============
 =============
 
@@ -4093,16 +4075,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-#EXTINF:-1 group-title="ANAK"  tvg-logo="https://i.imgur.com/x7vBeiA.jpeg",DUNIA ANAK 1 ON (R)
+#EXTINF:-1 group-title="ANAK"  tvg-logo="https://i.imgur.com/x7vBeiA.jpeg",DUNIA ANAK 1 ON (RM)
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
-
-
-
-sfdgfh
-
-#EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg" group-title="ANAK",DUNIA ANAK 1 ON (R)
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/duniaanak.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -4117,14 +4091,11 @@ http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 --
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=67
-#EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks HD 1 ON (RT)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks INDO HD 1 ON (R)
+https://av-ch-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
+
 
 
 
@@ -4163,22 +4134,12 @@ OLAHRAGA LOKAL
 ===============
 7/5/2025
 ===============
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL", SOCCER CHANNEL (RW)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",SportStars1 (RM)
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL", SPORTSTARS (RW)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
-
-
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL", SPORTSTARS 2 (RW)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=113
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",SportStars2 (RM)
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4220,12 +4181,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 ==EDT
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uh5diMN.jpeg" group-title="OLAHRAGA LOKAL",PSJ TV_🇲🇨
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",FIGHT SPORTS 1 ON
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -4236,25 +4191,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL", SPORTSTARS 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=112&type=dash
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL", SPORTSTARS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=113&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL", Sportstars 2 ON (R)
-https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus.id
 
 soccer cover https://i.imgur.com/WoZKvR1.jpeg
 
@@ -5313,14 +5249,12 @@ GAYA HIDUP
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=71
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Food Travel 1 ON (R)
-https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
+
 
 
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Asian Food Network 1 ON
@@ -5336,14 +5270,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 =====
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=87
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/e0ktXo0.jpeg" group-title="GAYA HIDUP",Vision Prime 1 ON
-https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/e0ktXo0.jpeg" group-title="GAYA HIDUP",Vision Prime 1 ON (RM)
+https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -5351,15 +5283,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
 #EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/cJdmpvm.jpeg" group-title="GAYA HIDUP",Entertainment 1 ON (R)
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=88
-#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/lVyihcE.jpeg" group-title="GAYA HIDUP",CelebritiesTV 1 ON
-https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/lVyihcE.jpegg" group-title=""GAYA HIDUP",CelebritiesTV 1 ON (RM)
+https://av-ch-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 ============20/1/2025 GAYA HIDUP============
 #EXTINF:-1 group-title="GAYA HIDUP" tvg-id="FashionTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/vgxWXsf.jpeg",Fashion TV SD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5548,11 +5475,7 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Global Trekker 1 ON (RW)
-http://202.147.193.244/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
+
 
 ---------------------
 
@@ -5590,35 +5513,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 ================>>>19/3/2025<==================
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=102
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC Earth 1 ON (RW)
-https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBCEarthAsia.uk" tvg-chno="BBCEarthAsia.uk" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/AnAoUca.jpeg", BBC Earth 2 ON (RW)
-http://202.147.193.244/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
-
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBCEarthAsia.uk" tvg-chno="BBCEarthAsia.uk" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/AnAoUca.jpeg", BBC Earth 3 ON (RW)
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BBCEARTH.m3u8
-
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC Earth 4 ON (RW)
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC Earth 1 ON (RM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd 
 
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="PENGETAHUAN" group-title="PENGETAHUAN",BBC Earth 5 ON (RW)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=102
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=102
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC Earth 2 ON (RM)
+https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
 =============
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="CrimeInvestigation.id" tvg-url="https://i.imgur.com/Apt76JU.jpeg",Crime Investigation 1 ON (V)
