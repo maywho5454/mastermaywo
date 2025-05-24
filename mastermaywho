@@ -3383,6 +3383,10 @@ http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd 
 
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL", iNews 2 On (+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ----------
 
 --------------EDIT INI-----------
@@ -3898,15 +3902,22 @@ NEW 4/5/2025
 
 =========
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICK JR INDO 1 ON (R)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICKELODEON 1 ON (ID)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/Nickelodeon.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICK JR INDO 2 ON (R)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICK JR INDO 1 ON (ID)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/NickJr.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK" tvg-id="NickJr.id" ,NICK JR 2 ON (WNG)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+
 
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg",NICKELODEON INDO 1 ON (R)
@@ -3914,7 +3925,7 @@ https://WahyuIPTV.short.gy/NickJr.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg",NICKELODEON INDO 2 ON (R)
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg",NICKELODEON ENGLISH
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nickelodeon.m3u8
 
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpegg" group-title="ANAK", DISNEY CHANNEL 1 ON (R)
@@ -3939,7 +3950,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babyfirst.m3u8
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 1 ON (R)
 http://202.147.193.244/live/eds/Animax/sa_dash/Animax.mpd
 
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 1 ON (R)
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", ANIMAX 2 ON (R)
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIMAX.m3u8
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", BIZNET KIDS 1 ON (R)
