@@ -3367,20 +3367,11 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg", INDOSIAR 2 ON (Dens) (R)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg",INDOSIAR (Bola) (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg",INDOSIAR (Bola) (R2)
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (Bola) (R3)
-http://xtv.ooo:8080/live/387546/200900/350972.ts
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo=https://i.imgur.com/bjNCrmL.jpeg",INDOSIAR (Bola) (R4)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",Indosiar bola (MJ) 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 
@@ -3634,9 +3625,10 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="nusantaratv.id" tvg-logo="https://i.imgur.com/u3VyI5p.jpeg",Nusantara TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/u3VyI5p.jpeg"" group-title="NASIONAL",Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/coLpmrh.jpeg" group-title="NASIONAL", TVRI 1 ON (R)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -5704,20 +5696,11 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 group-title="BOLA | BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",INDOSIAR (Bola) (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
-
-#EXTINF:-1 group-title="BOLA | BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",INDOSIAR (Bola) (R2)
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR (Bola) (R3)
-http://xtv.ooo:8080/live/387546/200900/350972.ts
-
-#EXTINF:-1 group-title="BOLA | BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",INDOSIAR (Bola) (R4)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",Indosiar bola (MJ) 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 
