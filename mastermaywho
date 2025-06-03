@@ -4141,11 +4141,12 @@ OLAHRAGA LOKAL
 7/5/2025
 ===============
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",SportStars1 (RM)
-https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",SportStars2 (RM)
-https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Sportstars 2 HD (MJ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4200,16 +4201,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 
 soccer cover https://i.imgur.com/WoZKvR1.jpeg
 
-
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA POPULER",Soccer Channel 1 ON (R)
+---------NEW 3/6/2025
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Soccer Channel 1 ON (MJ)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA POPULER", Sportstars 2 ON (R)
-https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus.id
+#EXTINF:0 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Sportstars 2 HD (MJ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+---------NEW 3/6/2025
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="CHANNEL | SPORT INDO",Soccer Channel (V+) .
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (I) (WORTH)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
