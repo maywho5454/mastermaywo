@@ -4211,10 +4211,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 soccer cover https://i.imgur.com/WoZKvR1.jpeg
 
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4274,11 +4275,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM", ZING TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/zing%20tv.m3u8
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg", MUSLIM TV 1 ON (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
-
 
 ===========NON HBO
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -4286,10 +4282,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 #EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",ORIGINALS 1 ON (RM)
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="CinemachiKids" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",Buddy Star 1 ON (RM)
-https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -4641,27 +4634,10 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 
 ======>>>20/3/2025<<<=========
-
+GALAXY COVER https://i.imgur.com/STbf9qL.jpeg
+GALAXY PREMIUM COVER https://i.imgur.com/H4XmjZG.jpeg
 ============
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 group-title="FILM" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/H4XmjZG.jpeg",GALAXY PREMIUM 1 ON (RM)
-https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H4XmjZG.jpeg" group-title="FILM",GALAXY PREMIUM 2 ON (RM)
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium2.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 group-title="FILM" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://i.imgur.com/STbf9qL.jpeg",GALAXY 1 ON (RM)
-https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/STbf9qL.jpeg", GALAXY 2 ON (RM)
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy2.m3u8
 
 ===========
 #EXTINF:-1 group-title="FILM"  tvg-logo="https://i.imgur.com/7mZwDie.jpeg",HITS NOW ON 1
@@ -4692,15 +4668,13 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 =====
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/eyUuO8T.jpeg" group-title="FILM",Indonesia Movie Channel 1 ON (RM)
-https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/eyUuO8T.jpeg" group-title="FILM",Indonesia Movie Channel 2 ON (RM)
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc2.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eyUuO8T.jpeg" group-title="FILM",Indonesia Movie Channel 1 ON (RM)
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 
 ==
@@ -5229,10 +5203,11 @@ KUALIFIKASI PIALA DUNIA
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNIA",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2M5JTN.jpeg"" group-title="BOLA | KUALIFIKASI PIALA DUNIA",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNIA",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6008,10 +5983,7 @@ NEW 4/5/2025
 #EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", AL QURAN AL KAREEM 1 ON (R)
 http://202.147.193.244/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
 
-#EXTINF:-1 group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg", MUSLIM TV 1 ON (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
+
 
 
 ==============
@@ -6208,10 +6180,12 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 ================================
 
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6248,12 +6222,13 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
 ================================
 
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:0 tvg-logo=""https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Sportstars 2 HD (MJ)
+#EXTINF:0 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -6641,12 +6616,13 @@ NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024NEW
 =====================================================================================================
 
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="OLAHRAGA POPULER" group-title="OLAHRAGA POPULER",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",Sportstars 2 HD (MJ)
+#EXTINF:0 tvg-logo="OLAHRAGA POPULER" group-title="OLAHRAGA POPULER",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -7557,10 +7533,11 @@ FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTB
 ===========================================================================================================================================================
 
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8108,12 +8085,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/
 FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT-FOOTBALL EVENT | END
 ===========================================================================================================================================================
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/grZDehi.png" group-title="BOLA | UEFA NATIONS LEAGUE",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="BOLA | UEFA NATIONS LEAGUE" group-title="BOLA | UEFA NATIONS LEAGUE",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/grZDehi.png" group-title="BOLA | UEFA NATIONS LEAGUE",Sportstars 2 HD (MJ)
+#EXTINF:0 tvg-logo="BOLA | UEFA NATIONS LEAGUE" group-title="BOLA | UEFA NATIONS LEAGUE",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -8477,10 +8455,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 ==
 ---------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",Sportstars 2 HD (MJ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
