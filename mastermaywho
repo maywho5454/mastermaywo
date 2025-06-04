@@ -3216,8 +3216,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="DAERAH" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",Bali TV 1 on (R)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Bandung TV
@@ -3233,10 +3231,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", ElshintaTV
@@ -3245,11 +3239,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/500a192f4d09360.m3u8
 
 
 ==
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV 1 ON (R)
-http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+
 
 
 
@@ -3281,15 +3271,11 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", RRI NET
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="tvkesehatan.id" tvg-name="TV Kesehatan" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TV Kesehatan
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="SaktiTV" tvg-name="Sakti TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Sakti TV
@@ -3584,10 +3570,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/LoyaFMC.jpeg" group-title="NASIONAL",RTV 1 ON (R)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 group-title="NASIONAL" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg",Sindonews TV 1 ON (RT)
-https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+
 
 
 
@@ -4980,160 +4963,74 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 ==========
-THAILAND NON SUB
+DUNIA | THAILAND NON SUB NON SUB
 ==========
-#EXTINF:-1 group-logo="https://i.imgur.com/pqA37KG.jpeg",DUNIA | THAILAND NON SUB
+#EXTINF:-1 group-logo="https://i.imgur.com/pqA37KG.jpeg",DUNIA | THAILAND NON SUB NON SUB
 ==========
-#EXTINF:-1 tvg-id="iptv36.nbt" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",NBT
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.thaipbs" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",TPBS
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.altv" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",ALTV
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.tv5" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",5HD
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.tsports" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",TSport
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.tptv" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",TPTV
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.tnn16" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",TNN16
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.jkn18" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",JKN18
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.nation" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",Nation
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.workpoint" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",Workpoint
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.true4u" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",True24
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.gmm25" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",GMM25
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.ch8" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",ช่อง 8
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.mono29" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",Mono
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.mcot" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",MCOT
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.one" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",One
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.thairath" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",Thairath
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.ch3" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",3 HD
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.amarin" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",Amarin
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.ch7" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",7 HD
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.pptv" group-title="DUNIA | THAILAND NON SUB" tvg-logo="https://i.imgur.com/pqA37KG.jpeg",PPTV
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CHANNEL 8 TH
+http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg",THAI PBS 3 HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg",THAI PBS 3 FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg",ASTV NEWS 1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg", POLICE TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",NEWS1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", WHITE CHANNEL
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CNA
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", COOL CHANNEL
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CABLE CHANNEL 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 
 
@@ -5692,12 +5589,6 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",CNA 1 On (R)
-https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
-
 #EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",CNA 1 On (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -5850,8 +5741,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", BERNAMA 1 ON (R)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO CRICKET 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ZEE TAMIL 1 ON (R)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZEE%20TAMIL.m3u8
@@ -5911,11 +5800,8 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="123" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",Astro Sensasi 1 ON (R)
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/28.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",Astro Sensasi 1 ON (R)
+https://wahyu1ptv.pages.dev/AstroSensasi-HD.m3u8
 
 
 
@@ -6111,9 +5997,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF", Golf°Network On 1 (R)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Sky Sports Golf UK On 1 (R)
-https://windnew.newkso.ru/wind/premium70/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Sky Sports Golf Italy On 1 (R)
 https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -6221,8 +6104,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 #EXTINF:-1 group-title="OLAHRAGA | BADMINTON" tvg-logo="https://i.imgur.com/P47cFSh.jpeg", SPOTV2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON", Astro Badminton 1 ON (R)
-http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 1 (MJ)
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTONV",AstroBadminton 2 (MJ)
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 ================================
 
 ---------NEW 3/6/2025
@@ -6410,8 +6296,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", ASTRO CRICKET
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -6805,14 +6690,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
 #EXTINF:-1 group-title="OLAHRAGA | FORMULA 1" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",DAZN F1 2 ON HD (R)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
 
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",  SKY SPORT F1 1 ON (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | FORMULA 1", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6927,11 +6804,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA", CNN INDONESIA 🇮🇩 ON
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",Sindonews TV 1 ON (R)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+SINDONEWS LOGO https://i.imgur.com/5iu6wvo.jpeg
 
 #EXTINF:-1 group-title="BERITA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg", ABC Australia  1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -6942,14 +6815,11 @@ https://atemeshield1-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 ==EDT
 
 
-
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",Al Jazeera 1 On (R)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
+#EXTINF:-1 group-title="BERITA" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg", Aljazeera International HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26 
+https://atemeshield1-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd 
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6968,11 +6838,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",NHK World Premium (R)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -7049,10 +6914,7 @@ https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd
 =======
 
 ==============
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-id="CNBCAsia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",CNBC Asia 1 On (R)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
+
 
 =========
 
@@ -7068,10 +6930,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
 
 =================
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="BERITA" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",Rusia Today 1 On (R)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
+
 
 
 
