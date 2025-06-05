@@ -5176,6 +5176,25 @@ KUALIFIKASI PIALA DUNIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNIA",Sportdigital Fussball HD (FHD)
 https://32tech0steam0dp01.org/live/SPORTDIGITAL_FUSSBALL/chunks.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNI",RCTI 1 ON (+)
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=90f567a21484fbf1554bf634c6326581&time=1744072568
+
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNI",RCTI 2 ON (+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNI",RCTI 3 ON (+)
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/n2M5JTN.jpeg" group-title="BOLA | KUALIFIKASI PIALA DUNIA",RCTI HD ON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6200,7 +6219,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 1 (MJ)
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTONV",AstroBadminton 2 (MJ)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 2 (MJ)
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 ================================
 
@@ -8103,7 +8122,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 
 
 
-#EXTINF:-1 group-title="OLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/grZDehi.png", DAZN 1 ES (MJ)
+#EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/grZDehi.png", DAZN 1 ES (MJ)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
 
 #EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/grZDehi.png", DAZN 2 ES (MJ)
