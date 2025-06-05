@@ -7444,7 +7444,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premiu
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA", ARENA PREMIUM 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
-#EXTINF:-1 group-title=BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ARENA SPORT 1
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ARENA SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
 
 #EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg", ARENA SPORT 2
@@ -7725,7 +7725,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 #EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/grZDehi.png", DAZN 1 ES (MJ)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
 
-#EXTINF:-1 group-title=""BOLA | SERIE A" tvg-logo="https://i.imgur.com/grZDehi.png", DAZN 2 ES (MJ)
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/grZDehi.png", DAZN 2 ES (MJ)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
 ===========================================================================================================================================================
