@@ -6212,12 +6212,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 #EXTINF:-1 group-title="OLAHRAGA | BADMINTON" tvg-logo="https://i.imgur.com/P47cFSh.jpeg", SPOTV2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 1 (MJ)
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON", ASTRO BADMINTON (MJ)
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20badminton.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 2 (MJ)
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-================================
+#EXTINF: -1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON", ASTRO BADMINTON 2 (MH)
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+
+==================
 
 ---------NEW 3/6/2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
