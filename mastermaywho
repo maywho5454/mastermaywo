@@ -3702,6 +3702,25 @@ HBO GROUP| UTAMA
 =======
 NEW 4/5/2025
 =========
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",Cinemax
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboHits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboFamily
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboSignature
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
 ===========
 HBO INDO MJ
 ===========
