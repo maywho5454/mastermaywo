@@ -3699,28 +3699,69 @@ HBO GROUP| UTAMA
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/0GiICTY.jpeg",HBO
 
+===========
+
+===========
 =======
 NEW 4/5/2025
 =========
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",Cinemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",Cinemax (MJ ID)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO (MJ ID)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboHits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboHits (MJ ID)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboFamily
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboFamily (MJ ID)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboSignature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboSignature (MJ ID)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
+
+=============
+HBO INDO v4
+=============
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo=""https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO Hits (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO Family  (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO Signature (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",Cinemax (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 ===========
 HBO INDO MJ
 ===========
@@ -3875,6 +3916,9 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="HBO",Cinemax INDO 3 On (R)
 #EXTVLCOPT:http-user-agent=xplayer168
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
+
+
+
 
 ===========10/4/2025 HBO TRS
 
@@ -4382,6 +4426,68 @@ https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #EXTVLCOPT:http-user-agent=EXOplay533
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy2.m3u8
+
+=======
+NEW 4/5/2025
+=========
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",Cinemax (MJ ID)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",HBO (MJ ID)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboHits (MJ ID)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboFamily (MJ ID)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboSignature (MJ ID)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
+
+=============
+HBO INDO v4
+=============
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",HBO (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",HBO Hits (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",HBO Family  (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",HBO Signature (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="FILM",Cinemax (MJ INDO)
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
 
 ===========
 HBO INDO MJ
@@ -5478,17 +5584,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekker
 ---------------------
 
 
-================>>>19/3/2025<==================
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Odax9dC.jpeg" ,National Geographic 1 ON(RW)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeo.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="" tvg-chno="" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Odax9dC.jpeg" ,National Geographic 2 ON(RW)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeo_2.m3u8
+================>>>16/6/2025<==================
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Odax9dC.jpeg" group-title="PENGETAHUAN", National Geographic USA
+https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Odax9dC.jpeg" group-title="PENGETAHUAN", Nat Geo Wild USA
+https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium745/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Odax9dC.jpeg" group-title="PENGETAHUAN" tvg-id="NationalGeographic.us@East",National Geographic East
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Odax9dC.jpeg" group-title="PENGETAHUAN" tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/Odax9dC.jpeg" group-title="PENGETAHUAN",National Geographic Wild  1 ON (RW)
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Odax9dC.jpeg",National Geographic Wild  2 ON (RW)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeowild.m3u8
+
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Odax9dC.jpeg",National Geographic Wild  3 ON (RW)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/natgeowild_2.m3u8
 
@@ -7133,6 +7245,122 @@ LEAGUE CUP END
 ===========
 
 ==============>>>SPESIAL BOLA<<<=====
+==============================
+BOLA | FIFA CLUB WORLD CUP
+===============================
+#EXTINF:-1 group-logo="https://i.imgur.com/JJy6kp5.jpeg",BOLA | FIFA CLUB WORLD CUP
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | US
+===============================
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",TUDN USA
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="UniMás..-.Network.Pacific.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Unimas
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMzL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Univision
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",TBS USA
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",TruTV USA
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | BRAZIL
+===============================
+#EXTINF:-1 tvg-id="SPORTV.br" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SporTV Brazil
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV.2.br" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SporTV2 Brazil
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV.3.br" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SporTV3 Brazil
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MC9tb25vLm0zdTg=.m3u8
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | BULGARIA
+===============================
+
+#EXTINF:-1 tvg-id="BNT.bg" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",BNT 1 Bulgaria
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="BNT2(src01).bg" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",BNT 2 Bulgaria
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="BNT.3.bg" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",BNT 3 Bulgaria
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzgvbW9uby5tM3U4.m3u8
+==============================
+BOLA | FIFA CLUB WORLD CUP | columbia
+===============================
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Win Sports+ Columbia
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzkyL21vbm8ubTN1OA==.m3u8
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | ISRAEL
+===============================
+
+#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Sport 5 Israel
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Sport 5 Live Israel
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | afrika
+===============================
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport Grandstand
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport LaLiga
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport MaXimo 1
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport Premier league
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTQvbW9uby5tM3U4.m3u8
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | SPAIN
+===============================
+
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 1 Bar DE
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 1 Spain
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NDUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 2 Bar DE
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 2 Spain
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 3 Spain
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 4 Spain
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDgvbW9uby5tM3U4.m3u8
+
+==============================
+BOLA | FIFA CLUB WORLD CUP | uk
+===============================
+#EXTINF:-1 tvg-id="Channel.5.uk" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Channel 5 UK
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNTUvbW9uby5tM3U4.m3u8
+
+
+
+
+
+
+
+
+
 ============================
 COVER UPDATE 2025 LIGA INGGRIS| https://i.imgur.com/pm6ULZT.jpeg
 ===========================
