@@ -3980,7 +3980,7 @@ NEW 4/5/2025
 
 =========
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICKELODEON 1 ON (ID)Add commentMore actions
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICKELODEON 1 ON (ID)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/Nickelodeon.mpd
 
@@ -4010,36 +4010,33 @@ https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
 https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg",NICKELODEON ENGLISH
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICK (US)
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzAvbW9uby5tM3U4.m3u8
 
-#EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpegg" group-title="ANAK", DISNEY CHANNEL 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20channel.m3u8
-
-#EXTINF: -1 tvg-id="disneyjunior.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DISNEY JUNIOR 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20junior.m3u8
-
-#EXTINF: -1 tvg-id="disneyxd.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DISNEY XD 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20xd.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", BABYTV 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babytv.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",NICK JR (US)
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMjkvbW9uby5tM3U4.m3u8
 
 
-#EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", BABY FIRST 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babyfirst.m3u8
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Disney Channel (US)
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTIvbW9uby5tM3U4.m3u8 
+
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Disney JR (US)
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjUyL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Disney XD (US)
+https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTQvbW9uby5tM3U4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",BabyTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/BabyTV-HD.mpd
+
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", BIZNET KIDS 1 ON (R)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-
-#EXTINF: -1 tvg-id="davinci" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DA VINCI 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/davinci.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", SPACETOON 1 ON (R) 
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spacetoon.m3u8
 
 
 
@@ -4121,8 +4118,11 @@ https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
 
 ---------
-#EXTINF:-1 group-title="ANAK"  tvg-logo="https://i.imgur.com/3vQAhUK.jpeg",Kids TV 1 On (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kids%20tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",KidsTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/KidsTV.mpd
+
+
 
 
 
@@ -4163,11 +4163,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 #EXTINF:-1 tvg-id="IndiKids" tvg-name="IndiKids" group-title="ANAK" tvg-logo="https://i.imgur.com/6cGSc3e.jpeg" tvg-chno="109", Fun Planet 1 ON
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-
-#EXTINF:-1 group-title="ANAK" tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/vdL9Wa6.jpeg ",My Kidz
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="MyKidz" tvg-url="https://i.imgur.com/vdL9Wa6.jpeg" group-title="ANAK",MyKids
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
+
 --
 
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks HD 1 ON (R)
