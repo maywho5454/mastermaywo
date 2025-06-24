@@ -3207,15 +3207,63 @@ DAERAH
 #EXTINF:-1 group-logo="https://i.imgur.com/7ay0SsG.jpeg",DAERAH
 
 ===>DAERAH START
-#EXTINF:-1 tvg-id="Bali TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Bali TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="DAERAH" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",Bali TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8Add commentMore actions
-http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://i.imgur.com/7ay0SsG.jpeg",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 group-title="DAERAH" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",Dhoho TV- Kediri
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4298,7 +4346,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 tvg-id="" tvg-name="ZA: NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL", NBA TV FHD
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/297426
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKA",NBA TV (JN)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA TV (JN)
 https://wahyu1ptv.pages.dev/NBATV-HD.m3u8
 
 
@@ -5986,40 +6034,42 @@ MALAYSIA
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/O1RVjqG.jpeg",DUNIA | MALAYSIA
 
-========
-NEW 4/5/2025
-==========
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO BOO 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3u8
+==================================
+NEW 24/6/2025
+=================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",AstroCitra
+https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO OASIS 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20OASIS.m3u8
-
-#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO AURA 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO SHOWCASE 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ASTRO HUA HEE DAI 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
-
-#EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", BERNAMA 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",AstroRania
+https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", ZEE TAMIL 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZEE%20TAMIL.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",ASTRO Boo 
+https://wahyu1ptv.pages.dev/AstroBoo-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", STAR VIJAY 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m3u8
+#EXTINF:-1 tvg-url="https://bit.ly/UnifyEpg" tvg-id="103" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",TV3
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA", SUN TV 1 ON (R)
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 ===========>>>24/3/2025<<<==========
 #EXTINF:-1, group-title="DUNIA | MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/0iCBqWG.jpeg",Travel&Taste 
@@ -6126,30 +6176,60 @@ AGAMA | ini edit
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/kdY7kjT.jpeg",AGAMA 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MakkahTV
+https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",RodjaTV
+https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MedsTV
+https://WahyuIPTV.short.gy/MedsTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",SurauTV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MQTV
+https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",WesalTV
+https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",AshillTV
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",AlHijrahTV
+https://wahyu1ptv.pages.dev/AstroAlHijrahTV.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",OasisTV
+https://wahyu1ptv.pages.dev/AstroOasis.m3u8
+
+
 =============
 NEW 4/5/2025
 ============
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA ",LIFE
-https://av-ch-cdn.mncnow.id/live/eds/Life/sa_dash/Life.mpd
-
-#EXTINF:-1 group-title="AGAMA " tvg-logo="ttps://i.imgur.com/kdY7kjT.jpeg", MUSLIM TV 1 ON (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 Add commentMore actions
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
-
 ======
-#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo=https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", AL QURAN AL KAREEM (MJ)
+#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", AL QURAN AL KAREEM (MJ)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
-#EXTINF: -1 tvg-id="alquranalkareem.macan" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", AL QURAN AL KAREEM (MJ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
 
 =====
 
@@ -6358,7 +6438,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id//
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL,Sportstars 1 HD (JN)
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",Sportstars 1 HD (JN)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",Sportstars 2 HD (MJ)
