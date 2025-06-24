@@ -6051,7 +6051,7 @@ https://wahyu1ptv.pages.dev/AstroBoo-HD.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/UnifyEpg" tvg-id="103" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",TV3
 https://smart.pendy.dpdns.org/Smart.php?id=TV3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA,APETITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",AURA
