@@ -5247,7 +5247,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/2FS1zWT.jpeg" group-title="DUNIA | KOREA",K+ ON
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium2.xml" tvg-logo="https://i.imgur.com/2FS1zWT.jpeg" group-title="DUNIA | KOREA",K+ ON
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
@@ -5562,7 +5562,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInv
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/jRpbxWs.jpeg" group-title="GAYA HIDUP",Dens Life & Style
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium2.xml" tvg-logo="https://i.imgur.com/jRpbxWs.jpeg" group-title="GAYA HIDUP",Dens Life & Style
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
@@ -5623,7 +5623,7 @@ EDT
 ===
 
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/tVX25En.jpeg",TV Okey
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium1.xml" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/tVX25En.jpeg",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
@@ -5759,7 +5759,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 ====
 EDT
 ===
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/HSONsHu.jpeg" group-title="PENGETAHUAN",DMAX TV 
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA.xml" tvg-logo="https://i.imgur.com/HSONsHu.jpeg" group-title="PENGETAHUAN",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
@@ -5775,7 +5775,7 @@ EDT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo=" https://i.imgur.com/eTS7oLc.jpeg" group-title="PENGETAHUAN",Dens Learning & Knowledge
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium2.xml" tvg-logo=" https://i.imgur.com/eTS7oLc.jpeg" group-title="PENGETAHUAN",Dens Learning & Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 
@@ -6050,25 +6050,25 @@ https://wahyu1ptv.pages.dev/AstroBoo-HD.m3u8
 #EXTINF:-1 tvg-url="https://bit.ly/UnifyEpg" tvg-id="103" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",TV3
 https://smart.pendy.dpdns.org/Smart.php?id=TV3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",APETITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",AURA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",AURA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",FITRAH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",FITRAH
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",JR.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",LEAD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",LEAD
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",ROLL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",ROLL
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia",SNAP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="MALAYSIA",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 ===========>>>24/3/2025<<<==========
@@ -6130,7 +6130,7 @@ https://wahyu1ptv.pages.dev/AstroSensasi-HD.m3u8
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://i.imgur.com/p0WT0lS.jpeg" group-logo="" group-title="DUNIA | MALAYSIA",Siar 
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV9.my" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg",TV 9 Malaysia
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA.xml" tvg-id="TV9.my" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg",TV 9 MALAYSIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
@@ -6143,17 +6143,17 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/OsymxGB.jpeg",Dunia Sinema HD
+#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium2.xml" tvg-logo="https://i.imgur.com/OsymxGB.jpeg",Dunia Sinema HD
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/dbmZcJq.jpeg" tvg-url="" group-title="DUNIA | MALAYSIA",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/V8bNMRP.jpeg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="DUNIA | MALAYSIA",TV 2
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/V8bNMRP.jpeg" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA.xml" group-title="DUNIA | MALAYSIA",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/qBrWPlP.jpeg",TV Okey
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium1.xml" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/qBrWPlP.jpeg",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/5szMpfM.jpeg" group-title="DUNIA | MALAYSIA",TV 6
