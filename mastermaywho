@@ -7366,114 +7366,38 @@ BOLA | FIFA CLUB WORLD CUP
 ===============================
 #EXTINF:-1 group-logo="https://i.imgur.com/JJy6kp5.jpeg",BOLA | FIFA CLUB WORLD CUP
 
-==============================
-BOLA | FIFA CLUB WORLD CUP | US
-===============================
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",TUDN USA
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 group-title="BOLA | FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg", Live 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa2&type=m3u8
 
-#EXTINF:-1 tvg-id="UniMás..-.Network.Pacific.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Unimas
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 group-title="BOLA | FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg",Live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa1&type=m3u8
 
-#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Univision
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",TBS USA
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",TruTV USA
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
-
-==============================
-BOLA | FIFA CLUB WORLD CUP | BRAZIL
-===============================
-#EXTINF:-1 tvg-id="SPORTV.br" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SporTV Brazil
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="SPORTV.2.br" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SporTV2 Brazil
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="SPORTV.3.br" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SporTV3 Brazil
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MC9tb25vLm0zdTg=.m3u8
-
-==============================
-BOLA | FIFA CLUB WORLD CUP | BULGARIA
-===============================
-
-#EXTINF:-1 tvg-id="BNT.bg" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",BNT 1 Bulgaria
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="BNT2(src01).bg" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",BNT 2 Bulgaria
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="BNT.3.bg" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",BNT 3 Bulgaria
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzgvbW9uby5tM3U4.m3u8
-==============================
-BOLA | FIFA CLUB WORLD CUP | columbia
-===============================
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Win Sports+ Columbia
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzkyL21vbm8ubTN1OA==.m3u8
-
-==============================
-BOLA | FIFA CLUB WORLD CUP | ISRAEL
-===============================
-
-#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Sport 5 Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Sport 5 Live Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
-
-==============================
-BOLA | FIFA CLUB WORLD CUP | afrika
-===============================
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport Grandstand
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport LaLiga
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport MaXimo 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",SuperSport Premier league
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTQvbW9uby5tM3U4.m3u8
-
-==============================
-BOLA | FIFA CLUB WORLD CUP | SPAIN
-===============================
-
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 1 Bar DE
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 1 Spain
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NDUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 2 Bar DE
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 2 Spain
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 3 Spain
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",DAZN 4 Spain
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDgvbW9uby5tM3U4.m3u8
-
-==============================
-BOLA | FIFA CLUB WORLD CUP | uk
-===============================
-#EXTINF:-1 tvg-id="Channel.5.uk" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP",Channel 5 UK
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 group-title="BOLA | FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg",Live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fifaclub1&type=m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 4
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150143
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 5
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150170
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP group-title="BOLA | FIFA CLUB WORLD CUP",Live 6
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150134
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 7
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150152
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BOLA | FIFA CLUB WORLD CUP" group-title="BOLA | FIFA CLUB WORLD CUP",Live 8
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150161
 
 
 
