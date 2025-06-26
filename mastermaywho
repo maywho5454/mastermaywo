@@ -4857,6 +4857,12 @@ GALAXY COVER https://i.imgur.com/STbf9qL.jpeg
 GALAXY PREMIUM COVER https://i.imgur.com/H4XmjZG.jpeg
 ============
 
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/STbf9qL.jpeg", GALAXY
+http://202.150.172.3:5000/udp/239.1.1.184:8778
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/STbf9qL.jpeg", GALAXY
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
 
 ===========
 #EXTINF:-1 group-title="FILM"  tvg-logo="https://i.imgur.com/7mZwDie.jpeg",HITS NOW ON 1
@@ -5608,6 +5614,9 @@ NEW 4/5/2025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",XPLORE 1 ON (R)
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-id="discoveryturbo" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", DISCOVERY TURBO
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/discovery%20turbo.m3u8
+http://45.194.86.111:8070/live/F25093/29838750/1114.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", HISTORY HIT 1 ON (R)
@@ -6546,17 +6555,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", TNT SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%201.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", TNT SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", TNT SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%203.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", TNT SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%204.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", ARENA PREMIUM 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
