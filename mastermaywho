@@ -7635,16 +7635,10 @@ COPA DEL REY
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://i.imgur.com/WRoIfCr.png" group-title="BOLA | COPA DEL REY", PREMIER SPORT 1 ON (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
-
-#EXTINF:-1 tvg-id="Premier Sports 2.ie" group-title="BOLA | COPA DEL REY" tvg-logo="https://i.imgur.com/WRoIfCr.png", PREMIER SPORTS 2 ON (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium550/mono.m3u8
-
+#EXTINF:-1  tvg-name="Premier Sports 1 FHD" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/WRoIfCr.png" group-title="OBOLA | COPA DEL REY" radio="false",IRE: Premier Sports 1 FHD
+https://a1xs.vip/8000021
+#EXTINF:-1  tvg-name="Premier Sports 2 FHD" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/WRoIfCr.png" group-title="BOLA | COPA DEL REY" radio="false",IRE: Premier Sports 2 FHD
+https://a1xs.vip/8000022
 ==========
 BUNDESLIGA
 ===========
