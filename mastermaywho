@@ -6527,6 +6527,25 @@ OLAHRAGA POPULER 2
 
 #EXTINF:-1 group-logo="https://i.imgur.com/1vqowr7.png",OLAHRAGA POPULER 2
 
+#EXTINF:-1  tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.(HD).sg" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",Bein Sports 1
+https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Bein Sports 2" tvg-id="beIN.SPORTS.2.(HD).sg" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",Bein Sports 2
+https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Bein Sports 3" tvg-id="beIN.SPORTS.3.(HD).sg" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",Bein Sports 3
+https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Bein Sports 4" tvg-id="beIN.SPORTS.4.(HD).sg" tvg-logo="https://i.imgur.com/1vqowr7.png group-title="OLAHRAGA POPULER 2",Bein Sports 4
+https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Bein Sports 5" tvg-id="beIN.SPORTS.5.(HD).sg" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",Bein Sports 5
+https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Bein Sports HD" tvg-id="udptvus/beinsports" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",Bein Sports HD
+https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="OLAHRAGA POPULER 2",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1  tvg-name="Astro Premier Sports" tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",Astro Premier Sports
+https://ott.udptv.org/stream/astro/premiersports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
 #EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="Astro Grandstand" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2", Astro Grandstand
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
@@ -7444,6 +7463,13 @@ LEAGUE CUP END
 BOLA | FIFA CLUB WORLD CUP
 ===============================
 #EXTINF:-1 group-logo="https://i.imgur.com/JJy6kp5.jpeg",BOLA | FIFA CLUB WORLD CUP
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP", DAZN体育1
+rtmp://f13h.mine.nu/sat/tv731
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP", DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
+
 
 #EXTINF:-1 group-title="BOLA | FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg", Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
