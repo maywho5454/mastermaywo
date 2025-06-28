@@ -7464,6 +7464,11 @@ BOLA | FIFA CLUB WORLD CUP
 ===============================
 #EXTINF:-1 group-logo="https://i.imgur.com/JJy6kp5.jpeg",BOLA | FIFA CLUB WORLD CUP
 
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP" radio="false",Live Event 1t
+https://a1xs.vip/ppv1
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP" radio="false",Live Event 2t
+https://a1xs.vip/ppv2
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JJy6kp5.jpeg" group-title="BOLA | FIFA CLUB WORLD CUP", DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
 
