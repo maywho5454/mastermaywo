@@ -3462,9 +3462,8 @@ https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/padzXjE.jpeg" group-title="NASIONAL",GTV 2 ON (+)
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/padzXjE.jpeg", GTV 2 ON (JL)
+https://hakim45.serv00.net/smarttv.php?id=Gtv
 -------------------
 #EXTINF:-1 group-title="NASIONAL" tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/lKH1wII.jpeg",Trans TV 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
