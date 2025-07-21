@@ -7575,6 +7575,22 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+=======BOLA | MANDIRI CUP 2025
+
+#EXTINF:-1 group-logo="https://i.imgur.com/MaGAlTq.png",BOLA | MANDIRI CUP 2025
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",SCTV FHD
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+
+#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-logo="https://i.imgur.com/MaGAlTq.png", INDOSIAR FHD
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",MojiTV TES
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 =======BOLA | AFC U17
 
