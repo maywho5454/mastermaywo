@@ -7070,6 +7070,16 @@ COVER UPDATE 2025 LIGA INGGRIS| https://i.imgur.com/pm6ULZT.jpeg
 NEW 4/5/2025
 ==================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg group-title="BOLA | LIGA INGGRIS",Sky Sports Premier League (FHD)
+https://7pal.short.gy/ssportspl
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", Premier League TV (JL)
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
