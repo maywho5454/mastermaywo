@@ -6365,6 +6365,14 @@ OLAHRAGA POPULER 2
 
 #EXTINF:-1 group-logo="https://i.imgur.com/1vqowr7.png",OLAHRAGA POPULER 2
 
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="OLAHRAGA POPULER 2",MUTV UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDMwOTE5YTA2YTJmLTNjNGItZWVjNC0xZDE1LTAyNTQwMjk0/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzYDNlZTYmZWMyMWZtU2Y1kTLxkjZ00SOwEmNtQTMmF2MhVmY/master.m3u8
+https://events3.liveboxpro.com/event/377.m3u8
+
 #EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2", Astro Football
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
