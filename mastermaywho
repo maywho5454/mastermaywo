@@ -7465,6 +7465,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",Peacock 1 (R)
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo=""https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",070. ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo=""https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",071. ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo=""https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",072. ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
 ===========
 
 ==========
