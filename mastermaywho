@@ -5198,6 +5198,12 @@ GAYA HIDUP
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/k8RQgiu.jpeg",GAYA HIDUP
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg group-logo="https://i.imgur.com/k8RQgiu.jpegg" group-title="GAYA HIDUP", Tiny House Nation (AG)
+https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-26mfabjsursqh/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", This Old House (AG)
+https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Drama World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -6796,8 +6802,13 @@ https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",011. AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",012. AstroArenaBola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", AstroArenaBola2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_ott.mpd
+#http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/332.ts
 =====================================================================================================
 NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024NEW 4/5/2024-NEW 4/5/2024
 =====================================================================================================
@@ -7351,6 +7362,13 @@ COVER UPDATE 2025 LIGA INGGRIS| https://i.imgur.com/pm6ULZT.jpeg
 ==================
 NEW 4/5/2025
 ==================
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="BOLA | LIGA INGGRIS" group-logo="https://i.imgur.com/pm6ULZT.jpeg" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",USA
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -8168,8 +8186,13 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",AstroArenaBola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A", AstroArenaBola2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_ott.mpd
+#http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/332.ts
 ==================
 NEW 4/5/2025
 ==================
