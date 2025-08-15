@@ -3672,7 +3672,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://i.imgur.com/0TDfyNw.jpeg" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg",TV One 2 ON (AG)
+#EXTINF:-1 tvg-id="tvOne.id" group-title="NASIONAL" tvg-url="https://i.imgur.com/0TDfyNw.jpeg" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg",TV One 2 ON (AG)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
 ----------------
