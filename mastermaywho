@@ -6530,16 +6530,6 @@ https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",075. ZiggoSportVoetbal
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",076. TruePremiereFootball1
-https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",077. TruePremiereFootball2
-https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",093. EspnDeportes
 https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
 
@@ -6673,27 +6663,12 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/o
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",BEIN SPORTS 1 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",BEIN SPORTS 2 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",BEIN SPORTS 3 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 
 #EXTINF:-1  tvg-name="AL: Super Sport 1 FHD" tvg-id="SuperSport.1.al" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER" radio="false",AL: Super Sport 1 FHD
 https://a1xs.vip/130001
 #EXTINF:-1  tvg-name="AL: Super Sport 2 FHD" tvg-id="SuperSport.2.al" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER" radio="false",AL: Super Sport 2 FHD
 https://a1xs.vip/130002
-#EXTINF:-1  tvg-name="AL: Super Sport 3 FHD" tvg-id="SuperSport.3.al" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER" radio="false",AL: Super Sport 3 FHD
-https://a1xs.vip/130003
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",Fox Sports 1
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/118499.ts
@@ -6819,11 +6794,6 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-
-#EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="truesports3.th" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", TRUE SPORTS 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
@@ -8424,10 +8394,6 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",073. ElevenSport4
-https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
-
-
 #EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNT SPORTS 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8683,12 +8649,6 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",073. ElevenSport4
-https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
-
-
 #EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNT SPORTS 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8905,12 +8865,6 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",073. ElevenSport4
-https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",063. TNTSports1
 https://wahyu1ptv.pages.dev/TNTSports1-HD.m3u8
 
@@ -8928,11 +8882,6 @@ https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8
 
 
 ================================================
-
-#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUE", CYTAVISION 3 (R)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium913/mono.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUE", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
