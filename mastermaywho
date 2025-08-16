@@ -6998,7 +6998,7 @@ FORMULA 1
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1,DAZN F1 ES (AG)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",DAZN F1 ES (AG)
 https://events3.liveboxpro.com/event/537.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -7651,7 +7651,7 @@ https://wahyu1ptv.pages.dev/SkySportFootball-HD.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title=BOLA | BUNDESLIGA",Sky Sport Bundesliga 1 HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",Sky Sport Bundesliga 1 HD
 https://events3.liveboxpro.com/event/558.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",041. SkySportBundesliga1
