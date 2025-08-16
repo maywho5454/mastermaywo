@@ -7437,6 +7437,24 @@ https://wahyu1ptv.pages.dev/OptusSport3-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",0Optus Sport4
 https://wahyu1ptv.pages.dev/OptusSport4-HD.m3u8
 
+==========================
+=SKY SPORT 2,3,4,5,8
+==========================
+#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 2 NZ
+https://a1xs.vip/700032
+#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 4 NZ
+https://a1xs.vip/700034
+#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 5 NZ
+https://a1xs.vip/700035
+#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
+
+=============================
+=SKY SPORT 2,3,4,5,8
+============================
+
 #EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",TNT SPORTS 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
