@@ -6987,6 +6987,8 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
+hghgh
+
 
 
 
@@ -7349,11 +7351,24 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 
 #EXTINF:-1 group-logo="https://i.imgur.com/pm6ULZT.jpeg",BOLA | LIGA INGGRIS 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS,beIN Sports MENA English 1 (AGF)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium61/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="BOLA | LIGA INGGRIS,ESPN Brasil
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+
+
 ===========================================
 NEW 21/8/2025 - NEW 21/8/2025- NEW 21/8/2025
 ============================================
 
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ", NBC SPORTS (R)
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ", NBC SPORTS (AGF)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7361,12 +7376,8 @@ NEW 21/8/2025 - NEW 21/8/2025- NEW 21/8/2025
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS " tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",NBC Sport Peacock
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS "  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg", NBC 1
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS "  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg", NBC Sport (AGF 2)
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7374,21 +7385,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #EXTINF:-1  group-title="BOLA | LIGA INGGRIS "  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg", NBC 2
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ", NBC 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
 ===========================================
 NEW 21/8/2025 - NEW 21/8/2025- NEW 21/8/2025
 ============================================
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="BOLA | LIGA INGGRIS" group-logo="https://i.imgur.com/pm6ULZT.jpeg" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",USA (R)
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -7407,13 +7406,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",FUBO SPORTS 2 (AG)(R)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-#EXTINF:-1 tvg-id="telemundo" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", TELEMUNDO (AG)(R)
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg group-title="BOLA | LIGA INGGRIS",Sky Sports Premier League (FHD)
 https://7pal.short.gy/ssportspl
 
@@ -7424,17 +7416,17 @@ https://7pal.short.gy/ssportspl
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",Diema Sport 2 Bulgaria (AG)
-https://events3.liveboxpro.com/event/466.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Diema Sport 2 Bulgaria (AG)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",Diema Sport 3 Bulgaria (AG)
-https://events3.liveboxpro.com/event/467.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Diema Sport 3 Bulgaria (AG)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium467/mono.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
