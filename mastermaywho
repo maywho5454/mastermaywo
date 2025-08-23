@@ -6938,7 +6938,7 @@ https://events3.liveboxpro.com/event/274.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="OLAHRAGA | FORMULA 1",Sky Sports F1 UK (AG)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="OLAHRAGA | FORMULA 1",Sky Sports F1 UK (AG)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE14U3Mt5yc05ybu9WbvETYtM3ajFmc09iYzMzYhFWOyQGZyQWLyQ2Y50CMzMDNtMGZyETL2YDMlRTO1gzL.m3u8
 https://events3.liveboxpro.com/event/60.m3u8
@@ -7266,22 +7266,22 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 #EXTINF:-1 group-logo="https://i.imgur.com/pm6ULZT.jpeg",BOLA | LIGA INGGRIS 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="BOLA | LIGA INGGRIS",Sky sports Premier League (TES)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Sky sports Premier League (TES)
 ##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8|referer=https://www.vidembed.re/
 ##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMhFWNjRDZwITZmJTLjhjMi1SNlhDNtEjZwEWL0QTOwETN1gzL.m3u8|referer=https://www.vidembed.re/
 https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|referer=https://webxzplay.cfd/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="BOLA | LIGA INGGRIS",UNIVERSO (TES)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",UNIVERSO (TES)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8|referer=https://www.vidembed.re/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="BOLA | LIGA INGGRIS",USA Network (TES)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",USA Network (TES)
 ##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="NBC.Universo.-.Eastern.feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="BOLA | LIGA INGGRIS",NBC Universo (TES)
+#EXTINF:-1 tvg-id="NBC.Universo.-.Eastern.feed.us" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Universo (TES)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8|referer=https://www.vidembed.re/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",beIN Sports MENA English 1 (AGF)
