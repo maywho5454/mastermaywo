@@ -7416,15 +7416,15 @@ https://maldivesn.net/hilaytv/starsportsselect2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title=""BOLA | LIGA INGGRIS",LIVE 11 HUB PREMIER 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 11 HUB PREMIER 1
 http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 
 
 
 
-#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title=""BOLA | LIGA INGGRIS",Telemundo Eastern Feed SD
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",Telemundo Eastern Feed SD
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title=""BOLA | LIGA INGGRIS",Telemundo Eastern Feed HD
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",Telemundo Eastern Feed HD
 https://tvpass.org/live/TelemundoEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ArenaPremium1
@@ -7467,7 +7467,7 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC (WNBC) New York, NY SD
 https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg"group-title="BOLA | LIGA INGGRIS",NBC (WNBC) New York, NY HD
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC (WNBC) New York, NY HD
 https://tvpass.org/live/WNET/hd
 
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN U SD
