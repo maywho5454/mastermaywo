@@ -3526,11 +3526,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 ===========
 ===========
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="NASIONAL" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" ,Mentari TV
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL", Mentari TV 
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
 
 -------
 
@@ -3878,28 +3880,20 @@ ANAK
 NEW 4/5/2025
 ==========
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-UPDATE 24/6/2025
+UPDATE 12/9/2025
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Disney Channel (JNUS)
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DISNEY XD (US)
+http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
-#EXTINF:-1 tvg-id="disneyjunior" tvg-name="__" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Disney Junior (JNUS)
-https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DISNEY JUNIOR 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
-#EXTINF:-1 tvg-id="disneyxd" tvg-name="__" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Disney XD (JNUS)
-https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
+
+
+(US)
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8 
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3959,12 +3953,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 =======EDT [21/11/2024]
 
-
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="ANAK" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" ,Mentari TV
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" group-title="ANAK", Mentari TV 
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 #EXTINF:-1 group-title="ANAK" tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg",ANIPLUS 1 ON
@@ -4052,11 +4046,13 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg" group-title="ANAK",DUNIA ANAK 1 ON (RM)
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/6cGSc3e.jpeg" tvg-name="" group-title="ANAK",Fun Planet 1 ONn 
-https://why.biz.id/Iptv/oxygen.php?id=planetfun
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="FunPlanet.id" tvg-name="Fun Planet" tvg-logo="https://i.imgur.com/6cGSc3e.jpeg" group-title="ANAK", FunPlanet 
+#https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
