@@ -3380,6 +3380,9 @@ NASIONAL
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="NASIONAL"  tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg", Sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="NASIONAL",INDOSIAR BOLA
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -5422,13 +5425,14 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR BOLA (TSP)
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",Indosiar bola (MJ) 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-
 
 =====>>>25/3/2025<<<====
 ===
@@ -7797,8 +7801,275 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",FUBO SPORTS 2 (FEAG)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+==========================
+AFC 2025
+==========================
+Halaman Tidak Tersedia
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/6gTwzHE.png",BOLA | AFC ASIAN CUP 2025
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", LIVE 1
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", Indosiar Superleague
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 =======BOLA | AFC U17
 
